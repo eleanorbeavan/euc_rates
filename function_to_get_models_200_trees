@@ -2,9 +2,10 @@
     # randomly pruning the branches in a phylogeny to >5 substitutions per branch (200 random repeats)
     # estimating rates using chronos
     # merging the trait data with rate data for each species
+    # running PGLS on all 200 trees and extracting stats results
 
 # input: a tree, trait dataframe, translation dataframe (phylogeny species to accepted names)
-# output: a dataframe with rates and traits for 200 trees
+# output: 5 dataframes (one for each model) with p-values and R^2 for all 200 trees
 
 library(ape)
 install.packages("phytools")
