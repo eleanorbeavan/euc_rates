@@ -2,20 +2,22 @@
     # randomly pruning the branches in a phylogeny to >5 substitutions per branch (200 random repeats)
     # estimating rates using chronos
     # merging the trait data with rate data for each species
-    # running PGLS on all 200 trees
 
 # input: a tree, trait dataframe, translation dataframe (phylogeny species to accepted names)
-# output: 5 dataframes (one for each model) with p-values and R^2 for all 200 trees
+# output: a dataframe with rates and traits for 200 trees
 
 library(ape)
+install.packages("phytools")
 library(phytools)
+install.packages("phylobase")
 library(phylobase)
 
 tree = read.tree("~/Dropbox/euc_sr/old_stuff/chloroplast_tree_one_outgroup.phy")
 
-# two functions to 
+# three functions to 
     # 1. find shortest branch length
-    # 2. remove shortest branch length
+    # 2. remove shortest branch 
+    # 3. drop all branches <5/1767
 
 # function to find the shortest branch length in the tree
 shortest.tip = function(tree) {
@@ -30,7 +32,7 @@ shortest.tip = function(tree) {
 # specify where the output needs to go (create dataframe)
 
 # function to remove shortest bl
-prune.one.branch = function(tree) {
+prune.shortest.branch = function(tree) {
     # take the edge length of those <= the number of tip labels (terminal nodes)
     # vector with terminal branch lengths
     n.tips = length(tree$tip.label)
@@ -49,19 +51,18 @@ prune.one.branch = function(tree) {
     return(new.tree)
 }
 
-# for each of the 200 trees, remove all branches <5/1767
 # use a loop to remove all branches <5/1767
-## lapply
-prune.tree = function(tree) {
-    while (shortest.tip(tree) < (5/1767)) {
-        new.tree = prune.one.branch(tree)
+x = (5/1767)
+prune.tree = function(tree, x) {
+    while (shortest.tip(tree) < x) {
+        new.tree = prune.shortest.branch(tree)
     }
     return(new.tree)
 }
 
-# loop to perform "prunetree" 200 times and create list of 200 trees
+# loop to perform "prune.tree" 200 times and create list of 200 pruned trees
 output = list()
-times = 200
+times = 2
 for (i in 1:times) {
     newtree = prune.tree(tree)
     output = c(output, list(newtree))
