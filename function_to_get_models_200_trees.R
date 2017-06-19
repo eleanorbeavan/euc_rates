@@ -68,3 +68,17 @@ for (i in 1:times) {
     newtree = prune.tree(tree)
     output = c(output, list(newtree))
 }
+
+# apply chronos to file with 200 pruned trees to get rates for all 200 trees
+
+# create dataframe with node ages
+makeChronosCalib(tree, node="root", age.min = 1, age.max = 1, interactive = F)
+
+# create chronogram for all 200 pruned trees
+make.chronogram = function(tree) {
+    c = chronos(tree, lambda = 1, calibration = makeChronosCalib(tree))
+    return(c)
+}
+
+chronograms = lapply(pruned.trees, make.chronogram)
+
