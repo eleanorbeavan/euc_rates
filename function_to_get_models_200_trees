@@ -1,0 +1,68 @@
+# a script for:
+    # randomly pruning the branches in a phylogeny to >5 substitutions per branch (200 random repeats)
+    # estimating rates using chronos
+    # merging the trait data with rate data for each species
+    # running PGLS on all 200 trees
+
+# input: a tree, trait dataframe, translation dataframe (phylogeny species to accepted names)
+# output: 5 dataframes (one for each model) with p-values and R^2 for all 200 trees
+
+library(ape)
+library(phytools)
+library(phylobase)
+
+tree = read.tree("~/Dropbox/euc_sr/old_stuff/chloroplast_tree_one_outgroup.phy")
+
+# two functions to 
+    # 1. find shortest branch length
+    # 2. remove shortest branch length
+
+# function to find the shortest branch length in the tree
+shortest.tip = function(tree) {
+    n.tips = length(tree$tip.label)
+    descendant.nodes = tree$edge[,2]
+    terminal.edges = tree$edge.length[descendant.nodes<=n.tips]
+    return(min(terminal.edges))
+}
+
+## write function to loop through the following function 200 times to produce file with 200 pruned trees
+# output?? file with 200 different pruned trees?
+# specify where the output needs to go (create dataframe)
+
+# function to remove shortest bl
+prune.one.branch = function(tree) {
+    # take the edge length of those <= the number of tip labels (terminal nodes)
+    # vector with terminal branch lengths
+    n.tips = length(tree$tip.label)
+    descendant.nodes = tree$edge[,2]
+    terminal.edges = tree$edge.length[descendant.nodes<=n.tips]
+    # keep random shortest tips
+    shortest.tips = which(terminal.edges == min(terminal.edges))
+    # the loop is needed because if there is only 1 value for shortest tip, the function will return any number from 1:x
+        if(length(shortest.tips)>1){ 
+        shortest.tip = sample(shortest.tips, 1)
+        }else{
+        shortest.tip = shortest.tips
+        }
+    
+    new.tree = drop.tip(tree, shortest.tip) 
+    return(new.tree)
+}
+
+# for each of the 200 trees, remove all branches <5/1767
+# use a loop to remove all branches <5/1767
+## lapply
+prune.tree = function(tree) {
+    while (shortest.tip(tree) < (5/1767)) {
+        new.tree = prune.one.branch(tree)
+    }
+    return(new.tree)
+}
+
+# loop to perform "prunetree" 200 times and create list of 200 trees
+output = list()
+times = 200
+for (i in 1:times) {
+    newtree = prune.tree(tree)
+    output = c(output, list(newtree))
+}
