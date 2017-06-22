@@ -145,7 +145,7 @@ for (i in 1:200) {
     mod1 = summary(model1)
     mod.1 = c(mod.1, list(model1)
               
-    results.mod.1 = rbind(results.mod.1, c("i", mod1$coefficients[??], mod1$r.squared) ###### CHECK THIS ######             
+    results.mod.1 = rbind(results.mod.1, c("i", mod1$coefficients[2,4], mod1$r.squared)            
  }     
               
    
