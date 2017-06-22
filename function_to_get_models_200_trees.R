@@ -100,7 +100,7 @@ get.rates = function(tree, c) {
     return(rates)
 }
 
-rates = mclapply(pruned.trees[1:3], get.rates, mc.cores = 10)
+rates = mclapply(pruned.trees, get.rates, mc.cores = 10)
 
 # merge rate data with LHT data
 merge.data = function(rate, trait) {
