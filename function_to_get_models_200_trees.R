@@ -119,16 +119,6 @@ LHD = mclapply(rates, merge.data, mc.cores = 10)
 
 # names in tree must be same as names in dataframe
 # check which species are not in dataframe and drop tips from tree
-
-# perform PGLS on 200 dataframes for 5 models
-    # rate ~ genome size
-    # rate ~ height
-    # rate ~ genome size
-    # rate ~ SLA
-    # rate ~ all traits
-
-# names in tree must be same as names in dataframe
-# check which species are not in dataframe and drop tips from tree
 tips.to.drop = list()
 for (i in 1:200) {
     treetips = chronograms[[i]]$tip.label
