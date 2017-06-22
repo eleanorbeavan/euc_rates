@@ -63,11 +63,11 @@ prune.tree = function(tree, x) {
 }
 
 # loop to perform "prune.tree" 200 times and create list of 200 pruned trees
-output = list()
+pruned.trees = list()
 times = 200
 for (i in 1:times) {
     newtree = prune.tree(tree)
-    output = c(output, list(newtree))
+    pruned.trees = c(pruned.trees, list(newtree))
 }
 
 # apply chronos to file with 200 pruned trees to get rates for all 200 trees
