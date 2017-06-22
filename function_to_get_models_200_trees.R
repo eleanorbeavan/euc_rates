@@ -8,10 +8,11 @@
 # output: 5 dataframes (one for each model) with p-values and R^2 for all 200 trees
 
 library(ape)
-install.packages("phytools")
 library(phytools)
-install.packages("phylobase")
 library(phylobase)
+library(caper)
+library(geiger)
+library(nlme)
 
 tree = read.tree("~/Dropbox/euc_sr/old_stuff/chloroplast_tree_one_outgroup.phy")
 
