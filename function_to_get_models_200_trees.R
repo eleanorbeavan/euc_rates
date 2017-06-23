@@ -57,9 +57,9 @@ prune.shortest.branch = function(tree) {
 x = (5/1767)
 prune.tree = function(tree, x) {
     while (shortest.tip(tree) < x) {
-        new.tree = prune.shortest.branch(tree)
+    tree = prune.shortest.branch(tree)
     }
-    return(new.tree)
+    return(tree)
 }
 
 # loop to perform "prune.tree" 200 times and create list of 200 pruned trees
