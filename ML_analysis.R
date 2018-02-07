@@ -17,9 +17,9 @@ library(nlme)
 
 
 # read in data
-tree = read.tree("~/cp_tree.phy")
-seqdata = read.csv("~/Dropbox/euc_sr/CSV_files/alignment_names.csv")
-lhtdata = read.csv("~/Dropbox/euc_sr/CSV_files/merged_LHS.csv")
+tree = read.tree("your path to the two-gene chloroplast or nuclear tree")
+seqdata = read.csv("your path the the alignment names file", StringAsFactors = FALSE)
+lhtdata = read.csv("your path to the life-history trait data", StringAsFactors = FALSE)
 # keep species with complete height data only
 height = lhtdata[complete.cases(lhtdata$mean_height),]
 
