@@ -60,8 +60,8 @@ prune.shortest.branch = function(tree) {
     return(new.tree)
 }
 
-# use a loop to remove all branches <5/1767
-x = (5/1767)
+# use a loop to remove all branches <5 substitutions
+x = (5/"length of alignment(different for each dataset")
 prune.tree = function(tree, x) {
     while (shortest.tip(tree) < x) {
         tree = prune.shortest.branch(tree)
@@ -106,7 +106,7 @@ extract.rates = function(c) {
 }
 
 rates = mclapply(chronograms, extract.rates, mc.cores = 6)
-write.csv(rates, file = "cp_rates.csv")
+write.csv(rates, file = "name of rate file")
 
 # merge rate data with LHT data
 # separate dataframe for complete cases of each life history trait
@@ -116,7 +116,7 @@ for (i in 1:200) {
     merged = merge(rates[[i]], height, by = "accepted_name")
     height.rate = c(height.rate, list(merged))
 }
-write.csv(height.rate[[1]], file = "cp_height_rate.csv")
+write.csv(height.rate[[1]], file = "name of rate & trait file")
 
 # perform PGLS on 200 dataframes for each of:
     # rate ~ height
@@ -156,7 +156,7 @@ for (i in 1:100) {
 }     
 
 colnames(results.mod.1) = c("tree", "p_value", "R_squared")
-write.csv(results.mod.1, file = "results.height.cp.fossils.csv")
+write.csv(results.mod.1, file = "name of results file")
 
 
 ## REPEAT FOR EACH OF THE 4 TRAITS AND FOR ALL TRAITS COMBINED
