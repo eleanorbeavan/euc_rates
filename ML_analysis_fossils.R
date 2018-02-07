@@ -9,17 +9,13 @@
 
 library(ape)
 library(phytools)
-library(phylobase)
-library(parallel)
 library(caper)
-library(geiger)
-library(nlme)
 
 
 # read in data
-tree = read.tree("~/cp_tree.phy")
-seqdata = read.csv("~/Dropbox/euc_sr/CSV_files/alignment_names.csv")
-lhtdata = read.csv("~/Dropbox/euc_sr/CSV_files/merged_LHS.csv")
+tree = read.tree("your path to the two gene chloroplast or nuclear tree")
+seqdata = read.csv("your path to the alignment names file", StringAsFactors = FALSE)
+lhtdata = read.csv("your path to the trait data", StringAsFactors = FALSE)
 # keep species with complete height data only
 height = lhtdata[complete.cases(lhtdata$mean_height),]
 
@@ -91,6 +87,7 @@ for (i in 1:times) {
 tree1 = pruned.trees[[1]]
 tree1$tip.label = as.character(tree1$tip.label)
 fossils = makeChronosCalib(tree1, node="root", age.min = 52, age.max = 85, interactive = T)
+## use the interactive tree to click on the crown nodes and enter the corresponding dates
 
 ## for loop for fossil data
 chronograms = list()
