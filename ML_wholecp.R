@@ -17,7 +17,7 @@ lhtdata = read.csv("your path to life-history trait data")
 # only keep species with height data
 height = lhtdata[complete.cases(lhtdata$mean_height),]
 
-# for average trait data
+# ONLY USE when you are interested in average trait data
 lhtdata = read.csv("your path to average trait data")
 
 # three functions to 
