@@ -5,7 +5,7 @@ l = c(0, 0.001, 0.01, 1, 10, 1000, 10000)
 cv = (length(l))
 
 ## 2-gene cp
-tree = read.tree("~/cp_tree.phy")
+tree = read.tree("path to 2-gene cp tree")
 tree = prune.tree(tree, (5/1767))
 
 cvs = data.frame()
@@ -18,7 +18,7 @@ for (i in 1:length(l)) {
 min(cvs$X2522394.63841202) ## lambda = 1
 
 ## 2-gene nuc
-tree = read.tree("~/nuc_tree.phy")
+tree = read.tree("path to 2-gene nuc tree")
 tree = prune.tree(tree, (5/1391))
 
 cvs2 = data.frame()
@@ -31,7 +31,7 @@ for (i in 1:length(l)) {
 min(cvs2$X2522394.63841202) ## all give the same result
 
 ## whole cp
-tree = read.tree("~/whole_cptree.tre")
+tree = read.tree("path to whole cp tree")
 
 cvs3 = data.frame()
 for (i in 1:length(l)) {
