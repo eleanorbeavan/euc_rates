@@ -9,11 +9,7 @@
 
 library(ape)
 library(phytools)
-library(phylobase)
-library(parallel)
 library(caper)
-library(geiger)
-library(nlme)
 
 
 # read in data
