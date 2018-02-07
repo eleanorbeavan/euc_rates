@@ -12,13 +12,13 @@ library(phytools)
 library(caper)
 
 # read in data
-tree = read.tree("~/whole_cptree.tre")
-lhtdata = read.csv("~/Dropbox/euc_sr/CSV_files/merged_LHS.csv")
+tree = read.tree("your path to whole chloroplast tree")
+lhtdata = read.csv("your path to life-history trait data")
 # only keep species with height data
 height = lhtdata[complete.cases(lhtdata$mean_height),]
 
 # for average trait data
-lhtdata = read.csv("~/Dropbox/euc_sr/CSV_files/wholecp_average_traits.csv")
+lhtdata = read.csv("your path to average trait data")
 
 # three functions to 
 # 1. find shortest branch length
@@ -120,3 +120,5 @@ p_val = model1$coefficients[2,4]
 r_squared = model1$r.squared
 
 write.csv(model1, file = "wholecp_height.csv")
+
+# repeat for the other 3 traits plus all traits combined
