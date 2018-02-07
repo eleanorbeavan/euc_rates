@@ -7,13 +7,13 @@ library(phytools)
 library(phylobase)
 
 # read in data
-lhtdata = read.csv("~/Dropbox/euc_sr/CSV_files/merged_LHS.csv")
-seqdata = read.csv("~/Dropbox/euc_sr/CSV_files/alignment_names.csv")
-tree = read.tree("~/cp_tree.phy")
-# save alignemnt file as CSV
-alignment = read.csv("~/cp_alignment.csv")
+lhtdata = read.csv("your path to trait data")
+seqdata = read.csv("your path to alignment names data")
+tree = read.tree("your path to the tree file")
+# prior to importing, save alignemnt file as CSV
+alignment = read.csv("your path to csv alignment file")
 
-# change all NAs in trait file to -1
+# change all NAs in trait file to -1 (required for Coevol)
 lhtdata[is.na(lhtdata)] <- (-1)
 
 # change names in tree to match LHT data
@@ -65,8 +65,8 @@ prune.tree = function(tree, x) {
 
 # TREE
 # drop tips with less than 5 substitutions
-# x = 5/(length of alignment)
-x = 5/1767
+# x = 5/(length of alignment - different for each dataset)
+x = 5/"alignment length"
 pruned.tree = prune.tree(tree,x)
 # drop species without complete LHT data
 # determine which species have complete LHT data
@@ -79,15 +79,16 @@ tipstodrop = setdiff(pruned.tree$tip.label, tokeep)
 tree = drop.tip(pruned.tree, tipstodrop)
 # continue to prune species with the shortest branches until 100 species are left
 pruned.tree = prune.tree(tree, (14.5/1767))
-write.tree(pruned.tree, file = "cp_tree_100_sp.tre")
+write.tree(pruned.tree, file = "tree file name")
 
 # LIFE HISTORY TRAITS
 speciestokeep = tree$tip.label
 pruned.data = lhtdata[lhtdata$coevol_name %in% speciestokeep, ]
-write.csv(pruned.data, file = "cp_100_lht.csv")
+write.csv(pruned.data, file = "trait file name")
 
 # ALIGNMENT
 pruned.alignment = alignment[alignment$V1 %in% speciestokeep, ]
-write.csv(pruned.alignment, file = "cp_100_alignment.csv")
+write.csv(pruned.alignment, file = "alignment file name")
+# alignment file needs to be changed back into phylip format in a text editor
 
-# repeat with nuclear data and whole chloroplast data
+# repeat with all data sets
