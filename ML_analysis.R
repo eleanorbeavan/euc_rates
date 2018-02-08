@@ -39,9 +39,9 @@ for (i in 1:times) {
 # apply chronos to file with 200 pruned trees to get rates for all 200 trees
 
 # create chronogram for all 200 pruned trees
-# lambda is set to 1 for both cp and nuc data
+l = value of lambda found in 'cross_validation_lambda' file
 make.chronogram = function(tree) {
-    c = chronos(tree, lambda = 1, calibration = makeChronosCalib(tree, node="root", age.min =55, age.max = 55, interactive = F))
+    c = chronos(tree, lambda = l, calibration = makeChronosCalib(tree, node="root", age.min =55, age.max = 55, interactive = F))
     return(c)
 }
 
