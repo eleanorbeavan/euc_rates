@@ -38,8 +38,10 @@ tokeep = append(tokeep, "E_papuana")
 ## use set diff to find species in tree without complete LHT data
 tipstodrop = setdiff(pruned.tree$tip.label, tokeep)
 tree = drop.tip(pruned.tree, tipstodrop)
-# continue to prune species with the shortest branches until 100 species are left
-pruned.tree = prune.tree(tree, (14.5/1767))
+# continue to prune randomly until 100 species are left
+x = length(tree$tip.label) - 100
+tree = drop.tip(tree, sample(tree$tip.label)[1:x])
+
 write.tree(pruned.tree, file = "tree file name")
 
 # LIFE HISTORY TRAITS
