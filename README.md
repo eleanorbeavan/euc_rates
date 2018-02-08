@@ -49,6 +49,11 @@ Because the rate estimates we obtained did not agree with those found elsewhere 
 - Output: table of correlations, covariances and posterior probabilities between substitution rates and traits
 
 Method:
+1. Prepare alignment, trait, tree and fossil data (if fossils are to be used). All species present in the trait file must also be present in the tree.
+2. Run the coevol program
+3. Use readcoevol (part of the coevol package) to obtain correlations and covariances
+
+To reproduce our results:
 1. To reduce computational time, files were pruned to contain less than 100 species
 2. Save each alignment file as a CSV file
 3. The prune.tree() function will be used throughout the analysis to prune branch lengths with less than 5 substitutions. Use the 'prune_short_branches_fn' file to create these functions in your global environment to use whenever they are required in the script.
