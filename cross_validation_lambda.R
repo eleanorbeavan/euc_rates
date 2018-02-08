@@ -4,9 +4,11 @@ library(ape)
 l = c(0, 0.001, 0.01, 1, 10, 1000, 10000)
 cv = (length(l))
 
+# use prune.tree() function. This is found in the 'prune_short_branches_fn' file
+
 ## 2-gene cp
 tree = read.tree("path to 2-gene cp tree")
-tree = prune.tree(tree, (5/1767))
+tree = prune.tree(tree, (5/length of alignment))
 
 cvs = data.frame()
 for (i in 1:length(l)) {
@@ -19,7 +21,7 @@ min(cvs$X2522394.63841202) ## lambda = 1
 
 ## 2-gene nuc
 tree = read.tree("path to 2-gene nuc tree")
-tree = prune.tree(tree, (5/1391))
+tree = prune.tree(tree, (5/length of alignment))
 
 cvs2 = data.frame()
 for (i in 1:length(l)) {
@@ -32,6 +34,7 @@ min(cvs2$X2522394.63841202) ## all give the same result
 
 ## whole cp
 tree = read.tree("path to whole cp tree")
+tree= prune.tree(tree, (5/length of alignment))
 
 cvs3 = data.frame()
 for (i in 1:length(l)) {
