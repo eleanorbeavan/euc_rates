@@ -7,7 +7,7 @@ This paper looked at four correlates of molecular rate variation in eucalypts: s
 The raw data files are in the "data" folder. This includes:
 
 1. Sequence alignments 
-- a. Non-coding nuclear sequences 1931 base pairs long, for 711 species
+- a. Non-coding nuclear sequences 1391 base pairs long, for 711 species
 - b. Non-coding chloroplast sequences 1767 base pairs long, for 711 species
 - c. whole chloroplast genome sequences 139598 base pairs long, for 41 species
 
