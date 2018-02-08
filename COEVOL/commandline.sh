@@ -1,0 +1,1 @@
+./coevol -d alignment_100 -t nuc_tree_100_sp.tre -c traits_100 -f nuc_100
