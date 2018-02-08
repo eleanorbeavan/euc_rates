@@ -1,7 +1,7 @@
 # three functions to 
 # 1. find shortest branch length
 # 2. remove shortest branch 
-# 3. drop all branches <5/(length of alignment)
+# 3. drop all branches <5 substitutions
 
 
 # function to find the shortest branch length in the tree
