@@ -46,9 +46,10 @@ fossils = makeChronosCalib(tree1, node="root", age.min = 52, age.max = 85, inter
 ## use the interactive tree to click on the crown nodes and enter the corresponding dates
 
 ## for loop for fossil data
+l = value of lambda found in 'cross_validation_lambda' file
 chronograms = list()
 for (i in 1:200) {
-    c = chronos(pruned.trees[[i]], lambda = 1, calibration = fossils)
+    c = chronos(pruned.trees[[i]], lambda = l, calibration = fossils)
     print(c)
     chronograms = c(chronograms, list(c))
 }
