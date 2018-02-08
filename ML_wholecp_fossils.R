@@ -36,7 +36,8 @@ pruned.tree = prune.tree(tree, x)
 # eucalyptus crown = 37+
 fossils = makeChronosCalib(pruned.tree, node="root", age.min = 52, age.max = 85, interactive = T)
 
-chronogram = chronos(pruned.tree, lambda = 10000, calibration = fossils)
+l = value of lambda found in 'cross_validation_lambda' file
+chronogram = chronos(pruned.tree, lambda = l, calibration = fossils)
 
 # extract rates 
 extract.rates = function(c) {
