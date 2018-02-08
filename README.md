@@ -1,27 +1,27 @@
 # euc_rates
 
-This repository contains all the necessary information for reproducing the results of "Faster rates of evolution in taller eucalypts with larger genomes". 
+### This repository contains all the necessary information for reproducing the results of "Faster rates of evolution in taller eucalypts with larger genomes". 
 
 This paper looked at four correlates of molecular rate variation in eucalypts: specific leaf area (SLA), height, seed mass and genome size.
 
 The raw data files are in the "data" folder. This includes:
 
 1. Sequence alignments 
-a. Non-coding nuclear sequences 1931 base pairs long, for 711 species
-b. Non-coding chloroplast sequences 1767 base pairs long, for 711 species
-c. whole chloroplast genome sequences 139598 base pairs long, for 41 species
+- a. Non-coding nuclear sequences 1931 base pairs long, for 711 species
+- b. Non-coding chloroplast sequences 1767 base pairs long, for 711 species
+- c. whole chloroplast genome sequences 139598 base pairs long, for 41 species
 
 2. Trait data for SLA, height, seed mass and genome size (with accepted species names checked agains the Australian Plant Census). Included as separate files are two novel datasets:
-a. SLA measurements for 511 eucalypt species
-b. genome size measurements for 788 eucalypt species
+- a. SLA measurements for 511 eucalypt species
+- b. genome size measurements for 788 eucalypt species
 
 3. phylogenetic trees created with IQ-TREE from the sequence alignments
 
 This analysis was performed in both a ML and Bayesian framework and all of the necessary scripts are available.
 
-ML analysis
-Input: phylogenetic trees and trait data
-Output: summary statistics of correlation between substitution rates and species traits
+### ML analysis
+- Input: phylogenetic trees and trait data
+- Output: summary statistics of correlation between substitution rates and species traits
 
 Method:
 1. Tree is pruned to remove branches with fewer than 5 substitutions as these are known to make large differences to substitution rate estimates
@@ -44,16 +44,16 @@ To reproduce our results:
 
 Because the rate estimates we obtained did not agree with those found elsewhere in the literature, we repeated the analysis in a Bayesian framework.
 
-Bayesian analysis
-Input: phylogenetic tree topology, sequence alignments, trait data
-Output: table of correlations, covariances and posterior probabilities between substitution rates and traits
+### Bayesian analysis
+- Input: phylogenetic tree topology, sequence alignments, trait data
+- Output: table of correlations, covariances and posterior probabilities between substitution rates and traits
 
 Method:
 1. To reduce computational time, files were pruned to contain less than 100 species
 2. The prune.tree() function will be used throughout the analysis to prune branch lengths with less than 5 substitutions. Use the 'prune_short_branches_fn' file to create these functions in your global environment to use whenever they are required in the script.
 3. Use the 'coevol_setup' file to:
-a. Remove branches with <5 substitutions
-b. Remove species for which complete trait data is not available
-c. Continue to prune out species until 100 remain
+- a. Remove branches with <5 substitutions
+- b. Remove species for which complete trait data is not available
+- c. Continue to prune out species until 100 remain
 Then, use the species in the tree file to prune species for the alignment and trait files. Repeat this for all three datasets.
 4. Use these files to run the program coevol. The commandline prompt is in the 'commandline.sh' file. Separate files need to be created for each analysis. That is: with and without fossils, with and without mallees, for each dataset
