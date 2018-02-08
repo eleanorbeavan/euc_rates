@@ -1,4 +1,5 @@
 ## A script for choosing a value of lambda, the rate smoothing parameter
+# the smallest cross-validation score corresponds to the most appropriate value of lambda
 library(ape)
 
 l = c(0, 0.001, 0.01, 1, 10, 1000, 10000)
