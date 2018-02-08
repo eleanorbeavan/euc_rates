@@ -30,10 +30,10 @@ pruned.tree = prune.tree(tree, x)
 # NO FOSSILS
 #------------------------------------------------------------
 # create chronogram
-# lambda set to 10000
+l = value of lambda found in 'cross_validation_lambda' file
 fossils = makeChronosCalib(tree, node="root", age.min = 1, age.max = 1, interactive = F)
 
-chronogram = chronos(pruned.tree, lambda = 10000, calibration = fossils)
+chronogram = chronos(pruned.tree, lambda = l, calibration = fossils)
 
 # extract rates 
 extract.rates = function(c) {
