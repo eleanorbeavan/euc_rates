@@ -87,7 +87,7 @@ write.csv(height.rate[[1]], file = "name of rate & trait file")
 ###### HEIGHT ########
 
 tips.to.drop = list()
-for (i in 1:100) {
+for (i in 1:200) {
     treetips = chronograms[[i]]$tip.label
     treetips = na.omit(treetips)
     datatips = as.character(height$accepted_name)
@@ -97,7 +97,7 @@ for (i in 1:100) {
 }
 
 results.mod.1 = data.frame()
-for (i in 1:100) {
+for (i in 1:200) {
     tree = pruned.trees[[i]]
     
     # drop tips from the tree that aren't in the dataset
