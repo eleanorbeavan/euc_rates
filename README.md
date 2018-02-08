@@ -54,6 +54,6 @@ Method:
 3. Use the 'coevol_setup' file to:
 a. Remove branches with <5 substitutions
 b. Remove species for which complete trait data is not available
-c. Continue to prune out species with short branches until 100 remain
+c. Continue to prune out species until 100 remain
 Then, use the species in the tree file to prune species for the alignment and trait files. Repeat this for all three datasets.
 4. Use these files to run the program coevol. The commandline prompt is in the 'commandline.sh' file. Separate files need to be created for each analysis. That is: with and without fossils, with and without mallees, for each dataset
