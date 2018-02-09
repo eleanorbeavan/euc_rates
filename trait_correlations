@@ -1,0 +1,55 @@
+# a script to plot life-history traits and determine Pearson correlation coefficients
+
+library(ggplot2)
+library(plyr)
+library(cowplot)
+
+# load the data
+lhtdata = read.csv("your path to trait data")
+# rename columns
+lhtdata = rename(lhtdata, c("mean_sm"="seedmass", "mean_gs"="genomesize", "mean_height" = "height", "mean_SLA" = "SLA"))
+
+# plot of height vs seed mass with regression lines
+lhsm = ggplot(lhtdata, aes(x = log(height), y = log(seedmass), color = genus)) + geom_point(size=.5) + geom_smooth(method = lm, aes(fill = genus)) + theme(legend.position = "none")
+lhsm = lhsm + xlab("height") + ylab("seed mass")
+
+# height vs genome size
+lhgs = ggplot(lhtdata, aes(x = log(height), y = log(genomesize), color = genus)) + geom_point(size = .5) + geom_smooth(method = lm, aes(fill = genus)) + theme(legend.position = "none")
+lhgs = lhgs + xlab("height") + ylab("genome size")
+
+# height vs SLA
+lhsla = ggplot(lhtdata, aes(x = log(height), y = log(SLA), color = genus)) + geom_point(size = .5) + geom_smooth(method = lm, aes(fill = genus)) + theme(legend.position = "none")
+lhsla = lhsla + xlab("height") + ylab("SLA")
+
+# seed mass vs genome size
+lsmgs = ggplot(lhtdata, aes(x = log(seedmass), y = log(genomesize), color = genus)) + geom_point(size = .5) + geom_smooth(method = lm, aes(fill = genus)) + theme(legend.position = "none")
+lsmgs = lsmgs + xlab("seed mass") + ylab("genome size")
+
+# seed mass vs SLA
+lsmsla= ggplot(lhtdata, aes(x = log(seedmass), y = log(SLA), color = genus)) + geom_point(size = .5) + geom_smooth(method = lm, aes(fill = genus)) + theme(legend.position = "none")
+lsmsla = lsmsla + xlab("seed mass") + ylab("SLA")
+
+# genome size vs SLA
+lgssm= ggplot(lhtdata, aes(x = log(genomesize), y = log(SLA), color = genus)) + geom_point(size = .5) + geom_smooth(method = lm, aes(fill = genus)) + theme(legend.position = "none")
+lgssm = lgssm + xlab("genome size") + ylab("SLA")
+
+legend = get_legend(lhsm + theme(legend.position = "bottom"))
+
+# combine plots into one
+plot = plot_grid(lhsm, lhgs, lhsla, lsmgs, lsmsla, lgssm, labels = c("A", "B", "C", "D", "E", "F"), ncol = 3)
+plot = plot_grid(plot, legend, ncol = 1, nrow = 2, rel_heights = c(.4, .05))
+
+
+# Pearson's correlation coefficient for each pair of traits
+cor.test(lhtdata$genomesize, lhtdata$height) 
+cor.test(lhtdata$mean_SLA, lhtdata$mean_height) 
+cor.test(lhtdata$mean_seedmass, lhtdata$mean_height)
+cor.test(lhtdata$mean_seedmass, lhtdata$mean_genomesize) 
+cor.test(lhtdata$mean_seedmass, lhtdata$mean_SLA)
+cor.test(lhtdata$mean_genomesize, lhtdata$mean_SLA) 
+
+# subset genera
+cory = lhtdata[which(lhtdata$genus=="Corymbia"),]
+ang = lhtdata[which(lhtdata$genus=="Angophora"),]
+euc = lhtdata[which(lhtdata$genus=="Eucalyptus"),]
+# find Pearson's correlation coefficients for each genus
