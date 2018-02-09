@@ -67,3 +67,7 @@ To reproduce our results:
 6. Alignment files then need to be manually changed back into phylip format. Remove all " symbols.
 7. For analyses involving fossils, the 'fossils' file needs to be altered so that so that nodes are specified by by giving the names of two species that have this node as their last common ancestor. This can be done by visually inspecting the tree file.
 8. Use these files to run the program coevol. The commandline prompt is in the 'commandline.sh' file. Separate files need to be created for each analysis. That is, for each dataset: with and without fossils and with and without mallees. 
+9. Use the script 'burn_in' to determine an appropriate burn-in for each analysis
+10. Run the program 'readcoevol', which is part of the coevol package, specifying the burn in you found in 9. Use the +mean option to obtain mean substitution rates for each branch
+11. Use the coevol output file '.postmeanbranchsynrate.tab' and the script 'rate_variation' to visually asses variation around the rates
+12. Use the coevol output file '.cov' to determne covariances and correlations between rates and traits
