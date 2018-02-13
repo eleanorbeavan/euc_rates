@@ -9,9 +9,9 @@ The raw data files are in the "data" folder. This includes:
 1. Sequence alignments 
 - a. Non-coding nuclear sequences 1391 base pairs long, for 712 species
 - b. Non-coding chloroplast sequences 1767 base pairs long, for 712 species
-- c. whole chloroplast genome sequences 139598 base pairs long, for 41 species
+- c. whole chloroplast genome sequences 139598 base pairs long, for 39 species
 
-2. Trait data for SLA, height, seed mass and genome size (with accepted species names checked agains the Australian Plant Census). Included as separate files are two novel datasets:
+2. Trait data for SLA, height, seed mass and genome size (with accepted species names checked against the Australian Plant Census). Included as separate files are two novel datasets:
 - a. SLA measurements for 511 eucalypt species
 - b. genome size measurements for 788 eucalypt species
 
