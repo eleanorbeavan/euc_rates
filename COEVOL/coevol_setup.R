@@ -53,5 +53,7 @@ write.csv(pruned.data, file = "trait file name")
 pruned.alignment = alignment[alignment$V1 %in% speciestokeep, ]
 write.csv(pruned.alignment, file = "alignment file name")
 # alignment file needs to be changed back into phylip format in a text editor
+# and species names need to be changed to truncated format. 
+# for example Eucalyptus_grandis => E_grandis
 
 # repeat with all data sets
