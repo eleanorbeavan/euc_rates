@@ -1,6 +1,6 @@
 # euc_rates
 
-### This repository contains all the necessary information for reproducing the results of "Faster rates of evolution in taller eucalypts with larger genomes". 
+### This repository contains all the necessary information for reproducing the results of Beavan et al. (2018). 
 
 This paper looked at four correlates of molecular rate variation in eucalypts: specific leaf area (SLA), height, seed mass and genome size.
 
