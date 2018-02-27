@@ -12,8 +12,8 @@ The raw data files are in the "data" folder. This includes:
 - c. whole chloroplast genome sequences 139598 base pairs long, for 39 species
 
 2. Trait data for SLA, height, seed mass and genome size (with accepted species names checked against the Australian Plant Census). Included as separate files are two novel datasets:
-- a. SLA measurements for 511 eucalypt species
-- b. genome size measurements for 788 eucalypt species
+- a. raw SLA measurements for 511 eucalypt species
+- b. raw genome size measurements for 788 eucalypt species
 
 3. phylogenetic trees created with IQ-TREE from the sequence alignments
 
@@ -30,7 +30,7 @@ Method:
 4. Substitution rate and trait data is combined into a single data.frame
 5. PGLS analysis is used to look for correlations between substitution rates and traits
 
-To use our data files, please change the path in our script to point to where you have saved our files.
+To use our data files, please change the path in our script to point to where you have saved our files on your computer.
 
 To reproduce our results:
 1. The prune.tree() function will be used throughout the analysis to prune branch lengths with less than 5 substitutions. Use the 'prune_short_branches_fn' file to create these functions in your global environment to use whenever they are required in the script.
