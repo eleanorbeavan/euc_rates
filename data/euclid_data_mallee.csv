@@ -1,0 +1,762 @@
+species_height,accepted_name,max_height,unit,mallee,coevol
+Angophora bakeri subsp. bakeri,Angophora_bakeri,20,m,N,A_bakeri
+Angophora costata subsp. euryphylla,Angophora_costata,27.5,m,N,A_costata
+Angophora costata subsp. leiocarpa,NA,25,m,N,NA
+Angophora floribunda,Angophora_floribunda,30,m,N,A_floribunda
+Angophora hispida,Angophora_hispida,8,m,N,A_hispida
+Angophora inopina,Angophora_inopina,8,m,N,A_inopina
+Angophora melanoxylon,Angophora_melanoxylon,15,m,N,A_melanoxylon
+Angophora robur,Angophora_robur,10,m,N,A_robur
+Angophora subvelutina,Angophora_subvelutina,20,m,N,A_subvelutina
+Angophora woodsiana,Angophora_woodsiana,20,m,N,A_woodsiana
+Corymbia abbreviata,Corymbia_abbreviata,7,m,N,C_abbreviata
+Corymbia abergiana,Corymbia_abergiana,12,m,N,C_abergiana
+Corymbia aparrerinja,Corymbia_aparrerinja,20,m,N,C_aparrerinja
+Corymbia arafurica,Corymbia_arafurica,15,m,N,C_arafurica
+Corymbia arenaria,Corymbia_arenaria,7,m,N,C_arenaria
+Corymbia arnhemensis,Corymbia_arnhemensis,15,m,N,C_arnhemensis
+Corymbia aspera,Corymbia_aspera,15,m,N,C_aspera
+Corymbia aureola,Corymbia_aureola,15,m,N,C_aureola
+Corymbia bella,Corymbia_bella,20,m,N,C_bella
+Corymbia blakei,Corymbia_blakei,10,m,N,C_blakei
+Corymbia bleeseri,Corymbia_bleeseri,20,m,N,C_bleeseri
+Corymbia bloxsomei,Corymbia_bloxsomei,20,m,N,C_bloxsomei
+Corymbia brachycarpa,Corymbia_brachycarpa,15,m,N,C_brachycarpa
+Corymbia bunites,Corymbia_bunites,25,m,N,C_bunites
+Corymbia cadophora subsp. pliantha,Corymbia_cadophora,6,m,N,C_cadophora
+Corymbia calophylla,Corymbia_calophylla,40,m,S,C_calophylla
+Corymbia candida,Corymbia_candida,10,m,N,C_candida
+Corymbia chartacea,Corymbia_chartacea,8,m,N,C_chartacea
+Corymbia chippendalei,Corymbia_chippendalei,10,m,S,C_chippendalei
+Corymbia citriodora,Corymbia_citriodora,50,m,N,C_citriodora
+Corymbia clandestina,Corymbia_clandestina,8,m,N,C_clandestina
+Corymbia clarksoniana,Corymbia_clarksoniana,15,m,N,C_clarksoniana
+Corymbia clavigera,Corymbia_clavigera,15,m,N,C_clavigera
+Corymbia cliftoniana,Corymbia_cliftoniana,8,m,N,C_cliftoniana
+Corymbia collina,Corymbia_collina,10,m,N,C_collina
+Corymbia confertiflora,Corymbia_confertiflora,18,m,N,C_confertiflora
+Corymbia dallachiana,Corymbia_dallachiana,15,m,N,C_dallachiana
+Corymbia dendromerinx,Corymbia_dendromerinx,10,m,N,C_dendromerinx
+Corymbia deserticola subsp. mesogeotica,Corymbia_deserticola,5.5,m,S,C_deserticola
+Corymbia dichromophloia,Corymbia_dichromophloia,15,m,N,C_dichromophloia
+Corymbia disjuncta,Corymbia_disjuncta,15,m,N,C_disjuncta
+Corymbia dunlopiana,Corymbia_dunlopiana,7,m,N,C_dunlopiana
+Corymbia ellipsoidea,Corymbia_ellipsoidea,15,m,N,C_ellipsoidea
+Corymbia eremaea,Corymbia_eremaea,10,m,S,C_eremaea
+Corymbia erythrophloia,Corymbia_erythrophloia,8,m,N,C_erythrophloia
+Corymbia eximia,Corymbia_eximia,20,m,N,C_eximia
+Corymbia ferriticola,Corymbia_ferriticola,15,m,S,C_ferriticola
+Corymbia ferruginea subsp. stypophylla,Corymbia_ferruginea,12,m,N,C_ferruginea
+Corymbia ficifolia,Corymbia_ficifolia,10,m,N,C_ficifolia
+Corymbia flavescens,Corymbia_flavescens,15,m,N,C_flavescens
+Corymbia foelscheana,Corymbia_foelscheana,10,m,N,C_foelscheana
+Corymbia gilbertensis,Corymbia_gilbertensis,12,m,N,C_gilbertensis
+Corymbia grandifolia subsp. grandifolia,Corymbia_grandifolia,16.67,m,N,C_grandifolia
+Corymbia greeniana,Corymbia_greeniana,10,m,N,C_greeniana
+Corymbia gummifera,Corymbia_gummifera,35,m,S,C_gummifera
+Corymbia haematoxylon,Corymbia_haematoxylon,15,m,N,C_haematoxylon
+Corymbia hamersleyana,Corymbia_hamersleyana,8,m,S,C_hamersleyana
+Corymbia hendersonii,Corymbia_hendersonii,25,m,N,C_hendersonii
+Corymbia henryi,Corymbia_henryi,25,m,N,C_henryi
+Corymbia hylandii,Corymbia_hylandii,5,m,N,C_hylandii
+Corymbia intermedia,Corymbia_intermedia,35,m,N,C_intermedia
+Corymbia jacobsiana,Corymbia_jacobsiana,15,m,N,C_jacobsiana
+Corymbia kombolgiensis,Corymbia_kombolgiensis,12,m,N,C_kombolgiensis
+Corymbia lamprophylla,Corymbia_lamprophylla,15,m,N,C_lamprophylla
+Corymbia latifolia,Corymbia_latifolia,12,m,N,C_latifolia
+Corymbia leichhardtii,Corymbia_leichhardtii,15,m,N,C_leichhardtii
+Corymbia lenziana,Corymbia_lenziana,10,m,S,C_lenziana
+Corymbia leptoloma,Corymbia_leptoloma,15,m,N,C_leptoloma
+Corymbia ligans,Corymbia_ligans,20,m,N,C_ligans
+Corymbia maculata,Corymbia_maculata,45,m,N,C_maculata
+Corymbia nesophila,Corymbia_nesophila,30,m,N,C_nesophila
+Corymbia novoguinensis,Corymbia_novoguinensis,25,m,N,C_novoguinensis
+Corymbia oocarpa,Corymbia_oocarpa,15,m,N,C_oocarpa
+Corymbia pachycarpa,Corymbia_pachycarpa,6,m,S,C_pachycarpa
+Corymbia papillosa,Corymbia_papillosa,8,m,N,C_papillosa
+Corymbia papuana,Corymbia_papuana,40,m,N,C_papuana
+Corymbia paractia,Corymbia_paractia,8,m,N,C_paractia
+Corymbia pauciseta,Corymbia_pauciseta,6,m,N,C_pauciseta
+Corymbia peltata subsp. peltata,Corymbia_peltata,10,m,N,C_peltata
+Corymbia petalophylla,Corymbia_petalophylla,15,m,N,C_petalophylla
+Corymbia plena,Corymbia_plena,15,m,N,C_plena
+Corymbia pocillum,Corymbia_pocillum,10,m,N,C_pocillum
+Corymbia polycarpa,Corymbia_polycarpa,20,m,N,C_polycarpa
+Corymbia polysciada,Corymbia_polysciada,15,m,N,C_polysciada
+Corymbia porrecta,Corymbia_porrecta,20,m,N,C_porrecta
+Corymbia ptychocarpa,Corymbia_ptychocarpa,20,m,N,C_ptychocarpa
+Corymbia rhodops,Corymbia_rhodops,15,m,N,C_rhodops
+Corymbia scabrida,Corymbia_scabrida,18,m,N,C_scabrida
+Corymbia serendipita,Corymbia_serendipita,12,m,N,C_serendipita
+Corymbia setosa,Corymbia_setosa,4,m,S,C_setosa
+Corymbia sphaerica,Corymbia_sphaerica,10,m,S,C_sphaerica
+Corymbia stockeri subsp. peninsularis,Corymbia_stockeri,20,m,N,C_stockeri
+Corymbia terminalis,Corymbia_terminalis,18,m,S,C_terminalis
+Corymbia tessellaris,Corymbia_tessellaris,35,m,N,C_tessellaris
+Corymbia torelliana,Corymbia_torelliana,30,m,N,C_torelliana
+Corymbia torta,Corymbia_torta,15,m,N,C_torta
+Corymbia trachyphloia,Corymbia_trachyphloia,15,m,N,C_trachyphloia
+Corymbia umbonata,Corymbia_umbonata,17,m,N,C_umbonata
+Corymbia watsoniana subsp. watsoniana,Corymbia_watsoniana,15,m,N,C_watsoniana
+Corymbia xanthope,Corymbia_xanthope,12,m,N,C_xanthope
+Corymbia zygophylla,Corymbia_zygophylla,6,m,S,C_zygophylla
+Eucalyptus abdita,Eucalyptus_abdita,3,m,Y,E_abdita
+Eucalyptus absita,Eucalyptus_absita,10,m,Y,E_absita
+Eucalyptus acaciiformis,Eucalyptus_acaciiformis,20,m,N,E_acaciiformis
+Eucalyptus accedens,Eucalyptus_accedens,25,m,N,E_accedens
+Eucalyptus acies,Eucalyptus_acies,3,m,Y,E_acies
+Eucalyptus acmenoides,Eucalyptus_acmenoides,45,m,N,E_acmenoides
+Eucalyptus aequioperta,Eucalyptus_aequioperta,10,m,S,E_aequioperta
+Eucalyptus agglomerata,Eucalyptus_agglomerata,40,m,N,E_agglomerata
+Eucalyptus aggregata,Eucalyptus_aggregata,20,m,N,E_aggregata
+Eucalyptus albens,Eucalyptus_albens,25,m,N,E_albens
+Eucalyptus albida,Eucalyptus_albida,3,m,Y,E_albida
+Eucalyptus albopurpurea,Eucalyptus_albopurpurea,5,m,Y,E_albopurpurea
+Eucalyptus alligatrix subsp. alligatrix,Eucalyptus_alligatrix,22.5,m,N,E_alligatrix
+Eucalyptus amplifolia subsp. sessiliflora,Eucalyptus_amplifolia,30,m,N,E_amplifolia
+Eucalyptus amygdalina,Eucalyptus_amygdalina,30,m,N,E_amygdalina
+Eucalyptus ancophila,Eucalyptus_ancophila,35,m,N,E_ancophila
+Eucalyptus andrewsii subsp. campanulata,Eucalyptus_andrewsii,45,m,N,E_andrewsii
+Eucalyptus angophoroides,Eucalyptus_angophoroides,40,m,N,E_angophoroides
+Eucalyptus angularis,Eucalyptus_angularis,3,m,Y,E_angularis
+Eucalyptus angulosa,Eucalyptus_angulosa,5,m,Y,E_angulosa
+Eucalyptus angustissima subsp. quaerenda,Eucalyptus_angustissima,4,m,Y,E_angustissima
+Eucalyptus annulata,Eucalyptus_annulata,7,m,Y,E_annulata
+Eucalyptus annuliformis,Eucalyptus_annuliformis,3,m,Y,E_annuliformis
+Eucalyptus apiculata,Eucalyptus_apiculata,6,m,Y,E_apiculata
+Eucalyptus apothalassica,Eucalyptus_apothalassica,15,m,N,E_apothalassica
+Eucalyptus approximans subsp. codonocarpa,Eucalyptus_approximans,6,m,Y,E_approximans
+Eucalyptus aquilina,Eucalyptus_aquilina,7,m,Y,E_aquilina
+Eucalyptus arachnaea subsp. Arrecta,Eucalyptus_arachnaea,10,m,N,E_arachnaea
+Eucalyptus arborella,Eucalyptus_arborella,5,m,Y,E_arborella
+Eucalyptus archeri,Eucalyptus_archeri,12,m,S,E_archeri
+Eucalyptus arenacea,Eucalyptus_arenacea,10,m,S,E_arenacea
+Eucalyptus argutifolia,Eucalyptus_argutifolia,4,m,Y,E_argutifolia
+Eucalyptus argyphea,Eucalyptus_argyphea,15,m,N,E_argyphea
+Eucalyptus aromaphloia subsp. sabulosa,Eucalyptus_aromaphloia,16.5,m,N,E_aromaphloia
+Eucalyptus articulata,Eucalyptus_articulata,3,m,Y,E_articulata
+Eucalyptus aspersa,Eucalyptus_aspersa,6,m,S,E_aspersa
+Eucalyptus aspratilis,Eucalyptus_aspratilis,5,m,Y,E_aspratilis
+Eucalyptus astringens subsp. redacta,Eucalyptus_astringens,15,m,N,E_astringens
+Eucalyptus badjensis,Eucalyptus_badjensis,45,m,N,E_badjensis
+Eucalyptus baeuerlenii,Eucalyptus_baeuerlenii,20,m,S,E_baeuerlenii
+Eucalyptus baileyana,Eucalyptus_baileyana,40,m,N,E_baileyana
+Eucalyptus bakeri,Eucalyptus_bakeri,12,m,S,E_bakeri
+Eucalyptus balanites,NA,5,m,S,NA
+Eucalyptus balanopelex,NA,4,m,Y,NA
+Eucalyptus balladoniensis subsp. sedens,Eucalyptus_balladoniensis,5,m,Y,E_balladoniensis
+Eucalyptus bancroftii,Eucalyptus_bancroftii,15,m,N,E_bancroftii
+Eucalyptus banksii,Eucalyptus_banksii,20,m,S,E_banksii
+Eucalyptus barberi,Eucalyptus_barberi,8,m,S,E_barberi
+Eucalyptus baudiniana,Eucalyptus_baudiniana,10,m,S,E_baudiniana
+Eucalyptus baueriana,Eucalyptus_baueriana,20,m,N,E_baueriana
+Eucalyptus baxteri,Eucalyptus_baxteri,40,m,S,E_baxteri
+Eucalyptus beaniana,Eucalyptus_beaniana,15,m,N,E_beaniana
+Eucalyptus beardiana,Eucalyptus_beardiana,4,m,Y,E_beardiana
+Eucalyptus behriana,Eucalyptus_behriana,12,m,,E_behriana
+Eucalyptus bensonii,Eucalyptus_bensonii,8,m,S,E_bensonii
+Eucalyptus benthamii,Eucalyptus_benthamii,40,m,N,E_benthamii
+Eucalyptus beyeriana,Eucalyptus_beyeriana,20,m,,E_beyeriana
+Eucalyptus bigalerita,Eucalyptus_bigalerita,17,m,N,E_bigalerita
+Eucalyptus blakelyi,Eucalyptus_blakelyi,25,m,N,E_blakelyi
+Eucalyptus blaxellii,Eucalyptus_blaxellii,3,m,Y,E_blaxellii
+Eucalyptus blaxlandii,Eucalyptus_blaxlandii,35,m,N,E_blaxlandii
+Eucalyptus boliviana,Eucalyptus_boliviana,12,m,S,E_boliviana
+Eucalyptus bosistoana,Eucalyptus_bosistoana,60,m,N,E_bosistoana
+Eucalyptus botryoides,Eucalyptus_botryoides,40,m,N,E_botryoides
+Eucalyptus brachyandra,Eucalyptus_brachyandra,8,m,S,E_brachyandra
+Eucalyptus brachycalyx,Eucalyptus_brachycalyx,10,m,S,E_brachycalyx
+Eucalyptus brachycorys,NA,7,m,Y,NA
+Eucalyptus brachyphylla,NA,4,m,S,NA
+Eucalyptus brassiana,Eucalyptus_brassiana,20,m,N,E_brassiana
+Eucalyptus brevifolia,Eucalyptus_brevifolia,10,m,S,E_brevifolia
+Eucalyptus brevipes,Eucalyptus_brevipes,5,m,Y,E_brevipes
+Eucalyptus brevistylis,Eucalyptus_brevistylis,25,m,N,E_brevistylis
+Eucalyptus bridgesiana,Eucalyptus_bridgesiana,25,m,N,E_bridgesiana
+Eucalyptus brockwayi,Eucalyptus_brockwayi,15,m,N,E_brockwayi
+Eucalyptus brookeriana,Eucalyptus_brookeriana,40,m,N,E_brookeriana
+Eucalyptus broviniensis,Eucalyptus_broviniensis,10,m,N,E_broviniensis
+Eucalyptus brownii,Eucalyptus_brownii,18,m,N,E_brownii
+Eucalyptus buprestium,Eucalyptus_buprestium,4,m,Y,E_buprestium
+Eucalyptus burdettiana,Eucalyptus_burdettiana,4,m,Y,E_burdettiana
+Eucalyptus burgessiana,Eucalyptus_burgessiana,7,m,S,E_burgessiana
+Eucalyptus burracoppinensis,Eucalyptus_burracoppinensis,5,m,Y,E_burracoppinensis
+Eucalyptus cadens,Eucalyptus_cadens,25,m,N,E_cadens
+Eucalyptus caesia subsp. magna,Eucalyptus_caesia,12.5,m,Y,E_caesia
+Eucalyptus calcareana,Eucalyptus_calcareana,8,m,S,E_calcareana
+Eucalyptus calcicola subsp. calcicola,Eucalyptus_calcicola,4,m,Y,E_calcicola
+Eucalyptus caleyi subsp. caleyi,Eucalyptus_caleyi,30,m,N,E_caleyi
+Eucalyptus caliginosa,Eucalyptus_caliginosa,35,m,N,E_caliginosa
+Eucalyptus calycogona subsp. calycogona,Eucalyptus_calycogona,5.5,m,S,E_calycogona
+Eucalyptus calyerup,Eucalyptus_calyerup,10,m,N,E_calyerup
+Eucalyptus camaldulensis subsp. acuta,Eucalyptus_camaldulensis,32.8,m,N,E_camaldulensis
+Eucalyptus cambageana,Eucalyptus_cambageana,25,m,N,E_cambageana
+Eucalyptus cameronii,Eucalyptus_cameronii,40,m,N,E_cameronii
+Eucalyptus camfieldii,Eucalyptus_camfieldii,10,m,S,E_camfieldii
+Eucalyptus campaspe,Eucalyptus_campaspe,10,m,N,E_campaspe
+Eucalyptus camphora subsp. camphora,Eucalyptus_camphora,10,m,S,E_camphora
+Eucalyptus canaliculata,Eucalyptus_canaliculata,30,m,N,E_canaliculata
+Eucalyptus canescens subsp. beadellii,Eucalyptus_canescens,3,m,Y,E_canescens
+Eucalyptus canobolensis,Eucalyptus_canobolensis,12,m,N,E_canobolensis
+Eucalyptus capillosa subsp. capillosa,Eucalyptus_capillosa,12,m,S,E_capillosa
+Eucalyptus capitellata,Eucalyptus_capitellata,25,m,N,E_capitellata
+Eucalyptus carnabyi,NA,5,m,Y,NA
+Eucalyptus carnea,Eucalyptus_carnea,25,m,N,E_carnea
+Eucalyptus carnei,Eucalyptus_carnei,6,m,S,E_carnei
+Eucalyptus celastroides subsp. celastroides,Eucalyptus_celastroides,8,m,S,E_celastroides
+Eucalyptus cephalocarpa,Eucalyptus_cephalocarpa,20,m,N,E_cephalocarpa
+Eucalyptus ceracea,Eucalyptus_ceracea,6,m,N,E_ceracea
+Eucalyptus cerasiformis,Eucalyptus_cerasiformis,3,m,Y,E_cerasiformis
+Eucalyptus ceratocorys,Eucalyptus_ceratocorys,10,m,S,E_ceratocorys
+Eucalyptus cernua,Eucalyptus_cernua,5,m,Y,E_cernua
+Eucalyptus chapmaniana,Eucalyptus_chapmaniana,35,m,N,E_chapmaniana
+Eucalyptus chartaboma,Eucalyptus_chartaboma,18,m,N,E_chartaboma
+Eucalyptus chloroclada,Eucalyptus_chloroclada,20,m,N,E_chloroclada
+Eucalyptus chlorophylla,Eucalyptus_chlorophylla,18,m,S,E_chlorophylla
+Eucalyptus cinerea subsp. cinerea,Eucalyptus_cinerea,15,m,N,E_cinerea
+Eucalyptus cladocalyx,Eucalyptus_cladocalyx,35,m,,E_cladocalyx
+Eucalyptus clelandii,NA,10,m,N,NA
+Eucalyptus clivicola,Eucalyptus_clivicola,12,m,N,E_clivicola
+Eucalyptus cloeziana,Eucalyptus_cloeziana,55,m,N,E_cloeziana
+Eucalyptus cneorifolia,Eucalyptus_cneorifolia,10,m,S,E_cneorifolia
+Eucalyptus coccifera,Eucalyptus_coccifera,15,m,S,E_coccifera
+Eucalyptus communalis,Eucalyptus_communalis,4,m,Y,E_communalis
+Eucalyptus concinna,Eucalyptus_concinna,8,m,,E_concinna
+Eucalyptus conferruminata,Eucalyptus_conferruminata,8,m,S,E_conferruminata
+Eucalyptus confluens,Eucalyptus_confluens,8,m,N,E_confluens
+Eucalyptus conglobata subsp. conglobata,Eucalyptus_conglobata,20,m,S,E_conglobata
+Eucalyptus conglomerata,Eucalyptus_conglomerata,8,m,S,E_conglomerata
+Eucalyptus conica,Eucalyptus_conica,20,m,N,E_conica
+Eucalyptus consideniana,Eucalyptus_consideniana,30,m,S,E_consideniana
+Eucalyptus conspicua,Eucalyptus_conspicua,10,m,N,E_conspicua
+Eucalyptus conveniens,Eucalyptus_conveniens,2.5,m,Y,E_conveniens
+Eucalyptus coolabah,Eucalyptus_coolabah,10,m,N,E_coolabah
+Eucalyptus cooperiana,Eucalyptus_cooperiana,4,m,Y,E_cooperiana
+Eucalyptus cordata,Eucalyptus_cordata,20,m,Y,E_cordata
+Eucalyptus cornuta,Eucalyptus_cornuta,20,m,S,E_cornuta
+Eucalyptus coronata,Eucalyptus_coronata,3,m,Y,E_coronata
+Eucalyptus corrugata,Eucalyptus_corrugata,15,m,S,E_corrugata
+Eucalyptus corticosa,Eucalyptus_corticosa,8,m,N,E_corticosa
+Eucalyptus corynodes,Eucalyptus_corynodes,20,m,N,E_corynodes
+Eucalyptus cosmophylla,Eucalyptus_cosmophylla,10,m,S,E_cosmophylla
+Eucalyptus crebra,Eucalyptus_crebra,35,m,N,E_crebra
+Eucalyptus crenulata,Eucalyptus_crenulata,12,m,N,E_crenulata
+Eucalyptus creta,Eucalyptus_creta,10,m,N,E_creta
+Eucalyptus cretata,Eucalyptus_cretata,4,m,Y,E_cretata
+Eucalyptus crispata,Eucalyptus_crispata,8,m,Y,E_crispata
+Eucalyptus croajingolensis,Eucalyptus_croajingolensis,30,m,N,E_croajingolensis
+Eucalyptus crucis subsp. crucis,Eucalyptus_crucis,15,m,Y,E_crucis
+Eucalyptus cullenii,Eucalyptus_cullenii,25,m,N,E_cullenii
+Eucalyptus cunninghamii,Eucalyptus_cunninghamii,2,m,Y,E_cunninghamii
+Eucalyptus cuprea,Eucalyptus_cuprea,6,m,,E_cuprea
+Eucalyptus cupularis,Eucalyptus_cupularis,8,m,N,E_cupularis
+Eucalyptus curtisii,Eucalyptus_curtisii,7,m,S,E_curtisii
+Eucalyptus cyanophylla,Eucalyptus_cyanophylla,5,m,Y,E_cyanophylla
+Eucalyptus cyclostoma,Eucalyptus_cyclostoma,3,m,Y,E_cyclostoma
+Eucalyptus cylindriflora,Eucalyptus_cylindriflora,4,m,Y,E_cylindriflora
+Eucalyptus cylindrocarpa,Eucalyptus_cylindrocarpa,6,m,Y,E_cylindrocarpa
+Eucalyptus cypellocarpa,Eucalyptus_cypellocarpa,65,m,S,E_cypellocarpa
+Eucalyptus dalrympleana subsp. dalrympleana,Eucalyptus_dalrympleana,40,m,N,E_dalrympleana
+Eucalyptus dawsonii,Eucalyptus_dawsonii,20,m,N,E_dawsonii
+Eucalyptus dealbata,Eucalyptus_dealbata,20,m,N,E_dealbata
+Eucalyptus deanei,Eucalyptus_deanei,65,m,N,E_deanei
+Eucalyptus decipiens subsp. adesmophloia,NA,5,m,Y,NA
+Eucalyptus decipiens subsp. chalara,Eucalyptus_decipiens,5,m,Y,E_decipiens
+Eucalyptus decolor,Eucalyptus_decolor,25,m,N,E_decolor
+Eucalyptus decorticans,Eucalyptus_decorticans,40,m,N,E_decorticans
+Eucalyptus decurva,Eucalyptus_decurva,3,m,Y,E_decurva
+Eucalyptus deflexa,Eucalyptus_deflexa,3,m,Y,E_deflexa
+Eucalyptus delegatensis subsp. delegatensis,Eucalyptus_delegatensis,50,m,N,E_delegatensis
+Eucalyptus delicata,Eucalyptus_delicata,15,m,S,E_delicata
+Eucalyptus dendromorpha,Eucalyptus_dendromorpha,30,m,N,E_dendromorpha
+Eucalyptus densa subsp. densa,Eucalyptus_densa,10,m,S,E_densa
+Eucalyptus denticulata,Eucalyptus_denticulata,35,m,N,E_denticulata
+Eucalyptus depauperata,Eucalyptus_depauperata,4,m,Y,E_depauperata
+Eucalyptus desmondensis,Eucalyptus_desmondensis,6,m,Y,E_desmondensis
+Eucalyptus deuaensis,Eucalyptus_deuaensis,4,m,Y,E_deuaensis
+Eucalyptus dielsii,Eucalyptus_dielsii,8,m,N,E_dielsii
+Eucalyptus diminuta,Eucalyptus_diminuta,4,m,Y,E_diminuta
+Eucalyptus diptera,Eucalyptus_diptera,10,m,N,E_diptera
+Eucalyptus discreta,Eucalyptus_discreta,5,m,Y,E_discreta
+Eucalyptus dissimulata,Eucalyptus_dissimulata,3,m,Y,E_dissimulata
+Eucalyptus distans,Eucalyptus_distans,7,m,N,E_distans
+Eucalyptus diversicolor,Eucalyptus_diversicolor,80,m,,E_diversicolor
+Eucalyptus diversifolia subsp. diversifolia,Eucalyptus_diversifolia,5,m,Y,E_diversifolia
+Eucalyptus dives,Eucalyptus_dives,20,m,N,E_dives
+Eucalyptus dolichocera,Eucalyptus_dolichocera,6,m,S,E_dolichocera
+Eucalyptus dolichorhyncha,Eucalyptus_dolichorhyncha,6,m,N,E_dolichorhyncha
+Eucalyptus dolorosa,Eucalyptus_dolorosa,1.5,m,Y,E_dolorosa
+Eucalyptus doratoxylon,Eucalyptus_doratoxylon,5,m,S,E_doratoxylon
+Eucalyptus dorrigoensis,Eucalyptus_dorrigoensis,30,m,N,E_dorrigoensis
+Eucalyptus drummondii,Eucalyptus_drummondii,4,m,Y,E_drummondii
+Eucalyptus dumosa,Eucalyptus_dumosa,10,m,Y,E_dumosa
+Eucalyptus dundasii,Eucalyptus_dundasii,15,m,N,E_dundasii
+Eucalyptus dunnii,Eucalyptus_dunnii,50,m,N,E_dunnii
+Eucalyptus dura,Eucalyptus_dura,25,m,N,E_dura
+Eucalyptus dwyeri,Eucalyptus_dwyeri,10,m,S,E_dwyeri
+Eucalyptus ebbanoensis subsp. ebbanoensis,Eucalyptus_ebbanoensis,6,m,Y,E_ebbanoensis
+Eucalyptus educta,Eucalyptus_educta,4,m,Y,E_educta
+Eucalyptus effusa,Eucalyptus_effusa,4,m,S,E_effusa
+Eucalyptus elaeophloia,Eucalyptus_elaeophloia,10,m,S,E_elaeophloia
+Eucalyptus elata,Eucalyptus_elata,40,m,S,E_elata
+Eucalyptus elliptica,Eucalyptus_elliptica,20,m,N,E_elliptica
+Eucalyptus erectifolia,Eucalyptus_erectifolia,2.5,m,Y,E_erectifolia
+Eucalyptus eremicola subsp. eremicola,Eucalyptus_eremicola,5,m,Y,E_eremicola
+Eucalyptus eremophila,Eucalyptus_eremophila,5,m,N,E_eremophila
+Eucalyptus erythrandra,NA,5,m,S,NA
+Eucalyptus erythrocorys,Eucalyptus_erythrocorys,8,m,S,E_erythrocorys
+Eucalyptus erythronema var. erythronema,Eucalyptus_erythronema,6,m,S,E_erythronema
+Eucalyptus eudesmioides subsp. eudesmioides,Eucalyptus_eudesmioides,7,m,Y,E_eudesmioides
+Eucalyptus eugenioides,Eucalyptus_eugenioides,25,m,N,E_eugenioides
+Eucalyptus ewartiana,Eucalyptus_ewartiana,7,m,Y,E_ewartiana
+Eucalyptus exigua,Eucalyptus_exigua,3,m,Y,E_exigua
+Eucalyptus exilipes,Eucalyptus_exilipes,35,m,N,E_exilipes
+Eucalyptus exilis,Eucalyptus_exilis,4,m,Y,E_exilis
+Eucalyptus exserta,Eucalyptus_exserta,20,m,S,E_exserta
+Eucalyptus extensa,Eucalyptus_extensa,12,m,N,E_extensa
+Eucalyptus extrica,Eucalyptus_extrica,4,m,Y,E_extrica
+Eucalyptus falcata,Eucalyptus_falcata,5,m,Y,E_falcata
+Eucalyptus famelica,Eucalyptus_famelica,4,m,Y,E_famelica
+Eucalyptus farinosa,Eucalyptus_farinosa,9,m,N,E_farinosa
+Eucalyptus fasciculosa,Eucalyptus_fasciculosa,10,m,S,E_fasciculosa
+Eucalyptus fastigata,Eucalyptus_fastigata,60,m,N,E_fastigata
+Eucalyptus fibrosa subsp. nubila,Eucalyptus_fibrosa,35,m,N,E_fibrosa
+Eucalyptus flavida,Eucalyptus_flavida,10,m,Y,E_flavida
+Eucalyptus flindersii,Eucalyptus_flindersii,5,m,S,E_flindersii
+Eucalyptus flocktoniae subsp. hebes,Eucalyptus_flocktoniae,8,m,Y,E_flocktoniae
+Eucalyptus foecunda,Eucalyptus_foecunda,3,m,Y,E_foecunda
+Eucalyptus foliosa,Eucalyptus_foliosa,3,m,Y,E_foliosa
+Eucalyptus formanii,Eucalyptus_formanii,10,m,S,E_formanii
+Eucalyptus forrestiana,Eucalyptus_forrestiana,4,m,N,E_forrestiana
+Eucalyptus fraseri subsp. Melanobasis,Eucalyptus_fraseri_,15,m,N,E_fraseri 
+Eucalyptus fraxinoides,Eucalyptus_fraxinoides,40,m,N,E_fraxinoides
+Eucalyptus froggattii,Eucalyptus_froggattii,10,m,S,E_froggattii
+Eucalyptus fruticosa,Eucalyptus_fruticosa,5,m,Y,E_fruticosa
+Eucalyptus fulgens,Eucalyptus_fulgens,20,m,N,E_fulgens
+Eucalyptus fusiformis,Eucalyptus_fusiformis,30,m,N,E_fusiformis
+Eucalyptus gamophylla,Eucalyptus_gamophylla,8,m,Y,E_gamophylla
+Eucalyptus gardneri subsp. gardneri,Eucalyptus_gardneri,12.5,m,N,E_gardneri
+Eucalyptus georgei subsp. georgei,Eucalyptus_georgei,12,m,N,E_georgei
+Eucalyptus gigantangion,Eucalyptus_gigantangion,30,m,N,E_gigantangion
+Eucalyptus gillenii,Eucalyptus_gillenii,13,m,S,E_gillenii
+Eucalyptus gillii,Eucalyptus_gillii,8,m,S,E_gillii
+Eucalyptus gittinsii subsp. gittinsii,Eucalyptus_gittinsii,4.5,m,Y,E_gittinsii
+Eucalyptus glaucescens,Eucalyptus_glaucescens,50,m,S,E_glaucescens
+Eucalyptus glaucina,Eucalyptus_glaucina,20,m,N,E_glaucina
+Eucalyptus globoidea,Eucalyptus_globoidea,40,m,N,E_globoidea
+Eucalyptus globulus subsp. bicostata,Eucalyptus_globulus,52.5,m,N,E_globulus
+Eucalyptus glomericassis,Eucalyptus_glomericassis,10,m,N,E_glomericassis
+Eucalyptus glomerosa,Eucalyptus_glomerosa,5,m,Y,E_glomerosa
+Eucalyptus gomphocephala,Eucalyptus_gomphocephala,40,m,,E_gomphocephala
+Eucalyptus gongylocarpa,Eucalyptus_gongylocarpa,16,m,N,E_gongylocarpa
+Eucalyptus goniantha subsp. goniantha,Eucalyptus_goniantha,7,m,S,E_goniantha
+Eucalyptus goniantha subsp. semiglobosa,Eucalyptus_goniantha,5,m,Y,E_goniantha
+Eucalyptus goniocalyx,Eucalyptus_goniocalyx,15,m,N,E_goniocalyx
+Eucalyptus goniocarpa,Eucalyptus_goniocarpa,7,m,N,E_goniocarpa
+Eucalyptus gracilis,Eucalyptus_gracilis,7,m,S,E_gracilis
+Eucalyptus grandis,Eucalyptus_grandis,55,m,N,E_grandis
+Eucalyptus granitica,Eucalyptus_granitica,20,m,N,E_granitica
+Eucalyptus gregoriensis,Eucalyptus_gregoriensis,8,m,S,E_gregoriensis
+Eucalyptus gregsoniana,Eucalyptus_gregsoniana,4,m,Y,E_gregsoniana
+Eucalyptus griffithsii,Eucalyptus_griffithsii,10,m,Y,E_griffithsii
+Eucalyptus grisea,Eucalyptus_grisea,28,m,N,E_grisea
+Eucalyptus grossa,Eucalyptus_grossa,3,m,Y,E_grossa
+Eucalyptus guilfoylei,Eucalyptus_guilfoylei,40,m,N,E_guilfoylei
+Eucalyptus gunnii,Eucalyptus_gunnii,25,m,N,E_gunnii
+Eucalyptus gypsophila,Eucalyptus_gypsophila,6,m,Y,E_gypsophila
+Eucalyptus haemastoma,Eucalyptus_haemastoma,12,m,N,E_haemastoma
+Eucalyptus hallii,Eucalyptus_hallii,20,m,N,E_hallii
+Eucalyptus halophila,Eucalyptus_halophila,4,m,Y,E_halophila
+Eucalyptus hebetifolia,Eucalyptus_hebetifolia,8,m,Y,E_hebetifolia
+Eucalyptus helidonica,Eucalyptus_helidonica,20,m,N,E_helidonica
+Eucalyptus herbertiana,Eucalyptus_herbertiana,10,m,S,E_herbertiana
+Eucalyptus histophylla,Eucalyptus_histophylla,6,m,Y,E_histophylla
+Eucalyptus horistes,Eucalyptus_horistes,8,m,S,E_horistes
+Eucalyptus houseana,Eucalyptus_houseana,20,m,N,E_houseana
+Eucalyptus howittiana,Eucalyptus_howittiana,25,m,N,E_howittiana
+Eucalyptus hypolaena,Eucalyptus_hypolaena,15,m,S,E_hypolaena
+Eucalyptus hypostomatica,Eucalyptus_hypostomatica,30,m,N,E_hypostomatica
+Eucalyptus ignorabilis,Eucalyptus_ignorabilis,20,m,N,E_ignorabilis
+Eucalyptus imitans,Eucalyptus_imitans,10,m,N,E_imitans
+Eucalyptus imlayensis,Eucalyptus_imlayensis,7,m,Y,E_imlayensis
+Eucalyptus impensa,Eucalyptus_impensa,1.5,m,Y,E_impensa
+Eucalyptus incerata,Eucalyptus_incerata,5,m,Y,E_incerata
+Eucalyptus incrassata,Eucalyptus_incrassata,8,m,Y,E_incrassata
+Eucalyptus indurata,Eucalyptus_indurata,8,m,S,E_indurata
+Eucalyptus infera,Eucalyptus_infera,8,m,S,E_infera
+Eucalyptus insularis,Eucalyptus_insularis,3,m,Y,E_insularis
+Eucalyptus interstans,Eucalyptus_interstans,20,m,N,E_interstans
+Eucalyptus intertexta,Eucalyptus_intertexta,20,m,S,E_intertexta
+Eucalyptus jacksonii,Eucalyptus_jacksonii,65,m,N,E_jacksonii
+Eucalyptus jensenii,Eucalyptus_jensenii,10,m,N,E_jensenii
+Eucalyptus johnsoniana,Eucalyptus_johnsoniana,3,m,Y,E_johnsoniana
+Eucalyptus johnstonii,Eucalyptus_johnstonii,50,m,N,E_johnstonii
+Eucalyptus jucunda,Eucalyptus_jucunda,7,m,S,E_jucunda
+Eucalyptus jutsonii,Eucalyptus_jutsonii,6,m,Y,E_jutsonii
+Eucalyptus kabiana,Eucalyptus_kabiana,10,m,S,E_kabiana
+Eucalyptus kartzoffiana,Eucalyptus_kartzoffiana,30,m,N,E_kartzoffiana
+Eucalyptus kenneallyi,Eucalyptus_kenneallyi,8,m,N,E_kenneallyi
+Eucalyptus kessellii,Eucalyptus_kessellii,10,m,S,E_kessellii
+Eucalyptus kingsmillii subsp. alatissima,Eucalyptus_kingsmillii,7,m,S,E_kingsmillii
+Eucalyptus kitsoniana,Eucalyptus_kitsoniana,10,m,S,E_kitsoniana
+Eucalyptus kochii subsp. amaryssia,Eucalyptus_kochii,12,m,S,E_kochii
+Eucalyptus kondininensis subsp. kondininensis,Eucalyptus_kondininensis,10,m,N,E_kondininensis
+Eucalyptus kondininensis subsp. tuberosa,Eucalyptus_kondininensis,8,m,N,E_kondininensis
+Eucalyptus koolpinensis,Eucalyptus_koolpinensis,12,m,N,E_koolpinensis
+Eucalyptus kruseana,Eucalyptus_kruseana,3,m,Y,E_kruseana
+Eucalyptus kumarlensis,Eucalyptus_kumarlensis,10,m,S,E_kumarlensis
+Eucalyptus kybeanensis,Eucalyptus_kybeanensis,4,m,S,E_kybeanensis
+Eucalyptus lacrimans,Eucalyptus_lacrimans,12,m,N,E_lacrimans
+Eucalyptus laeliae,Eucalyptus_laeliae,15,m,N,E_laeliae
+Eucalyptus laevis,Eucalyptus_laevis,10,m,S,E_laevis
+Eucalyptus laevopinea,Eucalyptus_laevopinea,40,m,N,E_laevopinea
+Eucalyptus lane-poolei,Eucalyptus_lane-poolei,10,m,S,E_lane-poolei
+Eucalyptus langleyi,Eucalyptus_langleyi,5,m,Y,E_langleyi
+Eucalyptus lansdowneana,Eucalyptus_lansdowneana,6,m,Y,E_lansdowneana
+Eucalyptus largeana,Eucalyptus_largeana,40,m,N,E_largeana
+Eucalyptus largiflorens,Eucalyptus_largiflorens,20,m,N,E_largiflorens
+Eucalyptus latens,Eucalyptus_latens,5,m,Y,E_latens
+Eucalyptus lateritica,Eucalyptus_lateritica,4,m,Y,E_lateritica
+Eucalyptus latisinensis,Eucalyptus_latisinensis,18,m,N,E_latisinensis
+Eucalyptus lehmannii,Eucalyptus_lehmannii,3,m,Y,E_lehmannii
+Eucalyptus leprophloia,Eucalyptus_leprophloia,5,m,Y,E_leprophloia
+Eucalyptus leptocalyx,Eucalyptus_leptocalyx,5,m,Y,E_leptocalyx
+Eucalyptus leptophleba,Eucalyptus_leptophleba,20,m,N,E_leptophleba
+Eucalyptus leptophylla,Eucalyptus_leptophylla,5,m,Y,E_leptophylla
+Eucalyptus leptopoda subsp. arctata,Eucalyptus_leptopoda,5.5,m,S,E_leptopoda
+Eucalyptus lesouefii,Eucalyptus_lesouefii,15,m,N,E_lesouefii
+Eucalyptus leucophloia subsp. euroa,Eucalyptus_leucophloia,8,m,N,E_leucophloia
+Eucalyptus leucophylla,Eucalyptus_leucophylla,6,m,S,E_leucophylla
+Eucalyptus leucoxylon subsp. leucoxylon,Eucalyptus_leucoxylon,18.75,m,N,E_leucoxylon
+Eucalyptus ligulata subsp. ligulata,Eucalyptus_ligulata,4.5,m,Y,E_ligulata
+Eucalyptus ligustrina,Eucalyptus_ligustrina,7,m,S,E_ligustrina
+Eucalyptus limitaris,Eucalyptus_limitaris,8,m,S,E_limitaris
+Eucalyptus lirata,Eucalyptus_lirata,12,m,N,E_lirata
+Eucalyptus litoralis,Eucalyptus_litoralis,18,m,N,E_litoralis
+Eucalyptus litorea,Eucalyptus_litorea,6,m,Y,E_litorea
+Eucalyptus livida,Eucalyptus_livida,5,m,S,E_livida
+Eucalyptus lockyeri subsp. exuta,Eucalyptus_lockyeri,10.5,m,N,E_lockyeri
+Eucalyptus longicornis,Eucalyptus_longicornis,25,m,S,E_longicornis
+Eucalyptus longifolia,Eucalyptus_longifolia,35,m,N,E_longifolia
+Eucalyptus longirostrata,Eucalyptus_longirostrata,30,m,N,E_longirostrata
+Eucalyptus longissima,Eucalyptus_longissima,8,m,S,E_longissima
+Eucalyptus loxophleba subsp. gratiae,Eucalyptus_loxophleba,7,m,S,E_loxophleba
+Eucalyptus lucasii,Eucalyptus_lucasii,10,m,Y,E_lucasii
+Eucalyptus lucens,Eucalyptus_lucens,5,m,Y,E_lucens
+Eucalyptus luculenta,Eucalyptus_luculenta,5,m,Y,E_luculenta
+Eucalyptus luehmanniana,Eucalyptus_luehmanniana,7,m,Y,E_luehmanniana
+Eucalyptus luteola,Eucalyptus_luteola,3,m,Y,E_luteola
+Eucalyptus macarthurii,Eucalyptus_macarthurii,40,m,N,E_macarthurii
+Eucalyptus mackintii,Eucalyptus_mackintii,30,m,N,E_mackintii
+Eucalyptus macrandra,Eucalyptus_macrandra,4,m,S,E_macrandra
+Eucalyptus macrocarpa subsp. elachantha,Eucalyptus_macrocarpa,3,m,Y,E_macrocarpa
+Eucalyptus macrorhyncha subsp. macrorhyncha,Eucalyptus_macrorhyncha,35,m,N,E_macrorhyncha
+Eucalyptus magnificata,Eucalyptus_magnificata,8,m,S,E_magnificata
+Eucalyptus major,Eucalyptus_major,20,m,N,E_major
+Eucalyptus malacoxylon,Eucalyptus_malacoxylon,20,m,N,E_malacoxylon
+Eucalyptus mannensis subsp. vespertina,Eucalyptus_mannensis,10,m,S,E_mannensis
+Eucalyptus mannifera subsp. gullickii,Eucalyptus_mannifera,16.67,m,N,E_mannifera
+Eucalyptus marginata subsp. marginata,Eucalyptus_marginata,35,m,S,E_marginata
+Eucalyptus mckieana,Eucalyptus_mckieana,30,m,N,E_mckieana
+Eucalyptus mcquoidii,Eucalyptus_mcquoidii,10,m,Y,E_mcquoidii
+Eucalyptus medialis,Eucalyptus_medialis,5,m,Y,E_medialis
+Eucalyptus mediocris,Eucalyptus_mediocris,20,m,N,E_mediocris
+Eucalyptus megacarpa,Eucalyptus_megacarpa,20,m,S,E_megacarpa
+Eucalyptus megacornuta,Eucalyptus_megacornuta,15,m,Y,E_megacornuta
+Eucalyptus melanoleuca,Eucalyptus_melanoleuca,30,m,N,E_melanoleuca
+Eucalyptus melanophitra,Eucalyptus_melanophitra,7,m,N,E_melanophitra
+Eucalyptus melanophloia,Eucalyptus_melanophloia,20,m,S,E_melanophloia
+Eucalyptus melanoxylon,Eucalyptus_melanoxylon,15,m,,E_melanoxylon
+Eucalyptus melliodora,Eucalyptus_melliodora,30,m,N,E_melliodora
+Eucalyptus merrickiae,Eucalyptus_merrickiae,4,m,Y,E_merrickiae
+Eucalyptus michaeliana,Eucalyptus_michaeliana,30,m,,E_michaeliana
+Eucalyptus micranthera,Eucalyptus_micranthera,4,m,Y,E_micranthera
+Eucalyptus microcarpa,Eucalyptus_microcarpa,25,m,S,E_microcarpa
+Eucalyptus microcorys,Eucalyptus_microcorys,60,m,N,E_microcorys
+Eucalyptus microneura,Eucalyptus_microneura,15,m,N,E_microneura
+Eucalyptus microschema,Eucalyptus_microschema,3,m,Y,E_microschema
+Eucalyptus microtheca,Eucalyptus_microtheca,10,m,S,E_microtheca
+Eucalyptus mimica subsp. continens,Eucalyptus_mimica,5,m,N,E_mimica
+Eucalyptus miniata,Eucalyptus_miniata,30,m,N,E_miniata
+Eucalyptus misella,Eucalyptus_misella,4,m,Y,E_misella
+Eucalyptus missilis,NA,3,m,N,NA
+Eucalyptus mitchelliana,Eucalyptus_mitchelliana,15,m,S,E_mitchelliana
+Eucalyptus moderata,Eucalyptus_moderata,10,m,S,E_moderata
+Eucalyptus moluccana,Eucalyptus_moluccana,30,m,N,E_moluccana
+Eucalyptus mooreana,Eucalyptus_mooreana,6,m,S,E_mooreana
+Eucalyptus moorei subsp. moorei,Eucalyptus_moorei,7,m,Y,E_moorei
+Eucalyptus morrisbyi,Eucalyptus_morrisbyi,16,m,N,E_morrisbyi
+Eucalyptus morrisii,Eucalyptus_morrisii,4,m,S,E_morrisii
+Eucalyptus muelleriana,Eucalyptus_muelleriana,40,m,N,E_muelleriana
+Eucalyptus multicaulis,Eucalyptus_multicaulis,8,m,Y,E_multicaulis
+Eucalyptus myriadena,Eucalyptus_myriadena,10,m,S,E_myriadena
+Eucalyptus nandewarica,Eucalyptus_nandewarica,10,m,S,E_nandewarica
+Eucalyptus neglecta,Eucalyptus_neglecta,7,m,S,E_neglecta
+Eucalyptus neutra,Eucalyptus_neutra,6,m,Y,E_neutra
+Eucalyptus newbeyi,Eucalyptus_newbeyi,8,m,Y,E_newbeyi
+Eucalyptus nicholii,Eucalyptus_nicholii,15,m,N,E_nicholii
+Eucalyptus nigrifunda,Eucalyptus_nigrifunda,10,m,N,E_nigrifunda
+Eucalyptus nitens,Eucalyptus_nitens,70,m,N,E_nitens
+Eucalyptus nitida,Eucalyptus_nitida,40,m,S,E_nitida
+Eucalyptus nobilis,Eucalyptus_nobilis,70,m,N,E_nobilis
+Eucalyptus normantonensis,Eucalyptus_normantonensis,8,m,S,E_normantonensis
+Eucalyptus nortonii,Eucalyptus_nortonii,15,m,N,E_nortonii
+Eucalyptus notabilis,Eucalyptus_notabilis,30,m,N,E_notabilis
+Eucalyptus nova-anglica,Eucalyptus_nova-anglica,15,m,N,E_nova-anglica
+Eucalyptus nudicaulis,Eucalyptus_nudicaulis,6,m,Y,E_nudicaulis
+Eucalyptus nutans,Eucalyptus_nutans,3,m,N,E_nutans
+Eucalyptus obconica,Eucalyptus_obconica,8,m,S,E_obconica
+Eucalyptus obesa,Eucalyptus_obesa,4,m,Y,E_obesa
+Eucalyptus obliqua,Eucalyptus_obliqua,90,m,S,E_obliqua
+Eucalyptus obtusiflora,Eucalyptus_obtusiflora,12,m,S,E_obtusiflora
+Eucalyptus occidentalis,Eucalyptus_occidentalis,20,m,S,E_occidentalis
+Eucalyptus ochrophloia,Eucalyptus_ochrophloia,15,m,N,E_ochrophloia
+Eucalyptus odontocarpa,Eucalyptus_odontocarpa,4,m,Y,E_odontocarpa
+Eucalyptus odorata,Eucalyptus_odorata,7,m,S,E_odorata
+Eucalyptus oldfieldii,Eucalyptus_oldfieldii,5,m,Y,E_oldfieldii
+Eucalyptus oleosa subsp. corvina,Eucalyptus_oleosa,8,m,S,E_oleosa
+Eucalyptus olida,Eucalyptus_olida,30,m,N,E_olida
+Eucalyptus oligantha,Eucalyptus_oligantha,12,m,N,E_oligantha
+Eucalyptus olivina,Eucalyptus_olivina,5,m,S,E_olivina
+Eucalyptus olsenii,Eucalyptus_olsenii,12,m,N,E_olsenii
+Eucalyptus ophitica,Eucalyptus_ophitica,10,m,N,E_ophitica
+Eucalyptus optima,Eucalyptus_optima,20,m,N,E_optima
+Eucalyptus oraria,Eucalyptus_oraria,7,m,S,E_oraria
+Eucalyptus orbifolia,Eucalyptus_orbifolia,5,m,Y,E_orbifolia
+Eucalyptus ordiana,Eucalyptus_ordiana,6,m,S,E_ordiana
+Eucalyptus oreades,Eucalyptus_oreades,40,m,N,E_oreades
+Eucalyptus orgadophila,Eucalyptus_orgadophila,20,m,N,E_orgadophila
+Eucalyptus ornata,Eucalyptus_ornata,10,m,N,E_ornata
+Eucalyptus orthostemon,Eucalyptus_orthostemon,7,m,Y,E_orthostemon
+Eucalyptus ovata subsp. ovata,Eucalyptus_ovata,20,m,N,E_ovata
+Eucalyptus ovularis,Eucalyptus_ovularis,12,m,S,E_ovularis
+Eucalyptus oxymitra,Eucalyptus_oxymitra,4,m,Y,E_oxymitra
+Eucalyptus pachycalyx subsp. waajensis,Eucalyptus_pachycalyx,15,m,N,E_pachycalyx
+Eucalyptus pachyloma,Eucalyptus_pachyloma,4,m,Y,E_pachyloma
+Eucalyptus pachyphylla,Eucalyptus_pachyphylla,5,m,Y,E_pachyphylla
+Eucalyptus paedoglauca,Eucalyptus_paedoglauca,17,m,N,E_paedoglauca
+Eucalyptus paliformis,Eucalyptus_paliformis,12,m,N,E_paliformis
+Eucalyptus paludicola,Eucalyptus_paludicola,12,m,S,E_paludicola
+Eucalyptus panda,Eucalyptus_panda,20,m,N,E_panda
+Eucalyptus paniculata,Eucalyptus_paniculata,30,m,N,E_paniculata
+Eucalyptus pantoleuca,Eucalyptus_pantoleuca,10,m,N,E_pantoleuca
+Eucalyptus parramattensis subsp. decadens,Eucalyptus_parramattensis,12,m,N,E_parramattensis
+Eucalyptus parvula,Eucalyptus_parvula,10,m,N,E_parvula
+Eucalyptus patellaris,Eucalyptus_patellaris,15,m,N,E_patellaris
+Eucalyptus patens,Eucalyptus_patens,40,m,N,E_patens
+Eucalyptus pauciflora subsp. pauciflora,Eucalyptus_pauciflora,30,m,S,E_pauciflora
+Eucalyptus pellita,Eucalyptus_pellita,40,m,N,E_pellita
+Eucalyptus pendens,Eucalyptus_pendens,4,m,Y,E_pendens
+Eucalyptus peninsularis,Eucalyptus_peninsularis,6,m,Y,E_peninsularis
+Eucalyptus perangusta,Eucalyptus_perangusta,4,m,Y,E_perangusta
+Eucalyptus percostata,Eucalyptus_percostata,10,m,Y,E_percostata
+Eucalyptus perriniana,Eucalyptus_perriniana,7,m,S,E_perriniana
+Eucalyptus persistens subsp. tardecidens,Eucalyptus_persistens,10,m,S,E_persistens
+Eucalyptus petiolaris,Eucalyptus_petiolaris,15,m,N,E_petiolaris
+Eucalyptus petraea,Eucalyptus_petraea,5,m,S,E_petraea
+Eucalyptus petrensis,Eucalyptus_petrensis,3,m,Y,E_petrensis
+Eucalyptus phaenophylla subsp. phaenophylla,Eucalyptus_phaenophylla,5,m,Y,E_phaenophylla
+Eucalyptus phenax subsp. compressa,Eucalyptus_phenax,8,m,Y,E_phenax
+Eucalyptus phoenicea,Eucalyptus_phoenicea,12,m,N,E_phoenicea
+Eucalyptus phylacis,NA,5,m,S,NA
+Eucalyptus pilbarensis,Eucalyptus_pilbarensis,3,m,Y,E_pilbarensis
+Eucalyptus pileata,Eucalyptus_pileata,6,m,S,E_pileata
+Eucalyptus pilligaensis,NA,25,m,N,NA
+Eucalyptus pilularis,Eucalyptus_pilularis,70,m,N,E_pilularis
+Eucalyptus pimpiniana,Eucalyptus_pimpiniana,2,m,Y,E_pimpiniana
+Eucalyptus piperita subsp. urceolaris,Eucalyptus_piperita,20,m,N,E_piperita
+Eucalyptus placita,Eucalyptus_placita,30,m,N,E_placita
+Eucalyptus planchoniana,Eucalyptus_planchoniana,20,m,N,E_planchoniana
+Eucalyptus platycorys,Eucalyptus_platycorys,8,m,S,E_platycorys
+Eucalyptus platydisca,Eucalyptus_platydisca,4,m,Y,E_platydisca
+Eucalyptus platyphylla,Eucalyptus_platyphylla,20,m,N,E_platyphylla
+Eucalyptus platypus subsp. congregata,Eucalyptus_platypus,8,m,N,E_platypus
+Eucalyptus pleurocarpa,Eucalyptus_pleurocarpa,5,m,Y,E_pleurocarpa
+Eucalyptus pluricaulis subsp. pluricaulis,Eucalyptus_pluricaulis,5,m,Y,E_pluricaulis
+Eucalyptus polita,Eucalyptus_polita,15,m,N,E_polita
+Eucalyptus polyanthemos subsp. vestita,Eucalyptus_polyanthemos,20,m,S,E_polyanthemos
+Eucalyptus polybractea,Eucalyptus_polybractea,8,m,Y,E_polybractea
+Eucalyptus populnea,Eucalyptus_populnea,20,m,N,E_populnea
+Eucalyptus porosa,Eucalyptus_porosa,12,m,S,E_porosa
+Eucalyptus praetermissa,Eucalyptus_praetermissa,10,m,N,E_praetermissa
+Eucalyptus prava,Eucalyptus_prava,15,m,N,E_prava
+Eucalyptus preissiana subsp. preissiana,Eucalyptus_preissiana,2.5,m,S,E_preissiana
+Eucalyptus prolixa,Eucalyptus_prolixa,10,m,N,E_prolixa
+Eucalyptus prominens,Eucalyptus_prominens,3,m,Y,E_prominens
+Eucalyptus propinqua,Eucalyptus_propinqua,40,m,N,E_propinqua
+Eucalyptus protensa,Eucalyptus_protensa,10,m,N,E_protensa
+Eucalyptus provecta,Eucalyptus_provecta,12,m,S,E_provecta
+Eucalyptus pruiniramis,Eucalyptus_pruiniramis,4,m,S,E_pruiniramis
+Eucalyptus pruinosa subsp. tenuata,Eucalyptus_pruinosa,10,m,S,E_pruinosa
+Eucalyptus psammitica,Eucalyptus_psammitica,15,m,N,E_psammitica
+Eucalyptus pterocarpa,Eucalyptus_pterocarpa,10,m,N,E_pterocarpa
+Eucalyptus pulchella,Eucalyptus_pulchella,20,m,N,E_pulchella
+Eucalyptus pulverulenta,Eucalyptus_pulverulenta,10,m,S,E_pulverulenta
+Eucalyptus pumila,Eucalyptus_pumila,5,m,Y,E_pumila
+Eucalyptus punctata,Eucalyptus_punctata,35,m,N,E_punctata
+Eucalyptus purpurata,Eucalyptus_purpurata,10,m,N,E_purpurata
+Eucalyptus pyriformis,Eucalyptus_pyriformis,5,m,Y,E_pyriformis
+Eucalyptus pyrocarpa,Eucalyptus_pyrocarpa,30,m,N,E_pyrocarpa
+Eucalyptus quadrangulata,Eucalyptus_quadrangulata,50,m,N,E_quadrangulata
+Eucalyptus quadrans,Eucalyptus_quadrans,12,m,S,E_quadrans
+Eucalyptus quadricostata,Eucalyptus_quadricostata,14,m,N,E_quadricostata
+Eucalyptus quaerenda,Eucalyptus_quaerenda,4,m,Y,E_quaerenda
+Eucalyptus racemosa subsp. racemosa,Eucalyptus_racemosa,20,m,S,E_racemosa
+Eucalyptus radiata subsp. radiata,Eucalyptus_radiata,40,m,N,E_radiata
+Eucalyptus rameliana,Eucalyptus_rameliana,3,m,Y,E_rameliana
+Eucalyptus raveretiana,Eucalyptus_raveretiana,30,m,N,E_raveretiana
+Eucalyptus ravida,Eucalyptus_ravida,10,m,N,E_ravida
+Eucalyptus recta,Eucalyptus_recta,15,m,N,E_recta
+Eucalyptus recurva,Eucalyptus_recurva,4,m,Y,E_recurva
+Eucalyptus redunca,Eucalyptus_redunca,2,m,Y,E_redunca
+Eucalyptus regnans,Eucalyptus_regnans,90,m,N,E_regnans
+Eucalyptus relicta,Eucalyptus_relicta,12,m,N,E_relicta
+Eucalyptus remota,Eucalyptus_remota,15,m,S,E_remota
+Eucalyptus repullulans,Eucalyptus_repullulans,5,m,Y,E_repullulans
+Eucalyptus resinifera subsp. hemilampra,Eucalyptus_resinifera,45,m,N,E_resinifera
+Eucalyptus retinens,Eucalyptus_retinens,25,m,N,E_retinens
+Eucalyptus rhodantha,Eucalyptus_rhodantha,3,m,Y,E_rhodantha
+Eucalyptus rhombica,Eucalyptus_rhombica,20,m,N,E_rhombica
+Eucalyptus rhomboidea,Eucalyptus_rhomboidea,18,m,N,E_rhomboidea
+Eucalyptus rigens,Eucalyptus_rigens,4,m,Y,E_rigens
+Eucalyptus rigidula,Eucalyptus_rigidula,4,m,Y,E_rigidula
+Eucalyptus risdonii,Eucalyptus_risdonii,8,m,N,E_risdonii
+Eucalyptus robusta,Eucalyptus_robusta,30,m,N,E_robusta
+Eucalyptus rodwayi,Eucalyptus_rodwayi,20,m,N,E_rodwayi
+Eucalyptus rosacea,Eucalyptus_rosacea,4,m,Y,E_rosacea
+Eucalyptus roycei,Eucalyptus_roycei,6,m,S,E_roycei
+Eucalyptus rubida subsp. barbigerorum,Eucalyptus_rubida,17.5,m,N,E_rubida
+Eucalyptus rubiginosa,Eucalyptus_rubiginosa,15,m,N,E_rubiginosa
+Eucalyptus rudderi,Eucalyptus_rudderi,30,m,N,E_rudderi
+Eucalyptus rudis subsp. rudis,Eucalyptus_rudis,20,m,N,E_rudis
+Eucalyptus rugosa,Eucalyptus_rugosa,10,m,Y,E_rugosa
+Eucalyptus rugulata,Eucalyptus_rugulata,15,m,N,E_rugulata
+Eucalyptus rummeryi,Eucalyptus_rummeryi,40,m,N,E_rummeryi
+Eucalyptus rupestris,Eucalyptus_rupestris,5,m,N,E_rupestris
+Eucalyptus salicola,Eucalyptus_salicola,15,m,N,E_salicola
+Eucalyptus saligna,Eucalyptus_saligna,55,m,N,E_saligna
+Eucalyptus salmonophloia,Eucalyptus_salmonophloia,25,m,N,E_salmonophloia
+Eucalyptus salubris,Eucalyptus_salubris,15,m,N,E_salubris
+Eucalyptus sargentii subsp. sargentii,Eucalyptus_sargentii,11,m,Y,E_sargentii
+Eucalyptus saxatilis,Eucalyptus_saxatilis,5,m,S,E_saxatilis
+Eucalyptus scias subsp. scias,Eucalyptus_scias,20,m,N,E_scias
+Eucalyptus scoparia,Eucalyptus_scoparia,15,m,N,E_scoparia
+Eucalyptus scopulorum,Eucalyptus_scopulorum,8,m,N,E_scopulorum
+Eucalyptus scyphocalyx,Eucalyptus_scyphocalyx,5,m,S,E_scyphocalyx
+Eucalyptus seeana,Eucalyptus_seeana,18,m,N,E_seeana
+Eucalyptus semota,Eucalyptus_semota,8,m,S,E_semota
+Eucalyptus sepulcralis,Eucalyptus_sepulcralis,7,m,S,E_sepulcralis
+Eucalyptus serraensis,Eucalyptus_serraensis,5,m,S,E_serraensis
+Eucalyptus sessilis,Eucalyptus_sessilis,5,m,Y,E_sessilis
+Eucalyptus sheathiana,Eucalyptus_sheathiana,10,m,S,E_sheathiana
+Eucalyptus shirleyi,Eucalyptus_shirleyi,7,m,N,E_shirleyi
+Eucalyptus sicilifolia,Eucalyptus_sicilifolia,10,m,N,E_sicilifolia
+Eucalyptus siderophloia,Eucalyptus_siderophloia,20,m,N,E_siderophloia
+Eucalyptus sideroxylon,Eucalyptus_sideroxylon,25,m,N,E_sideroxylon
+Eucalyptus sieberi,Eucalyptus_sieberi,35,m,N,E_sieberi
+Eucalyptus similis,Eucalyptus_similis,12,m,N,E_similis
+Eucalyptus singularis,Eucalyptus_singularis,6,m,N,E_singularis
+Eucalyptus smithii,Eucalyptus_smithii,45,m,S,E_smithii
+Eucalyptus socialis subsp. victoriensis,Eucalyptus_socialis,7,m,Y,E_socialis
+Eucalyptus sp. Cockburn,NA,7,m,,NA
+Eucalyptus sp. Dorsiventralis,NA,20,m,,NA
+Eucalyptus sp. Flinders Ranges,NA,7,m,,NA
+Eucalyptus sp. Kalbarri,NA,4,m,,NA
+Eucalyptus sp. Triangolensis,NA,6,m,,NA
+Eucalyptus sp. Undulans,NA,4,m,,NA
+Eucalyptus sparsa,Eucalyptus_sparsa,10,m,Y,E_sparsa
+Eucalyptus sparsifolia,Eucalyptus_sparsifolia,20,m,N,E_sparsifolia
+Eucalyptus spathulata,Eucalyptus_spathulata,10,m,N,E_spathulata
+Eucalyptus sphaerocarpa,Eucalyptus_sphaerocarpa,45,m,N,E_sphaerocarpa
+Eucalyptus splendens subsp. arcana,Eucalyptus_splendens,7,m,N,E_splendens
+Eucalyptus sporadica,Eucalyptus_sporadica,4,m,Y,E_sporadica
+Eucalyptus spreta,Eucalyptus_spreta,10,m,N,E_spreta
+Eucalyptus squamosa,Eucalyptus_squamosa,15,m,N,E_squamosa
+Eucalyptus staeri,Eucalyptus_staeri,10,m,S,E_staeri
+Eucalyptus staigeriana,Eucalyptus_staigeriana,12,m,N,E_staigeriana
+Eucalyptus steedmanii,Eucalyptus_steedmanii,12,m,N,E_steedmanii
+Eucalyptus stellulata,Eucalyptus_stellulata,15,m,S,E_stellulata
+Eucalyptus stenostoma,Eucalyptus_stenostoma,25,m,N,E_stenostoma
+Eucalyptus stoatei,Eucalyptus_stoatei,6,m,N,E_stoatei
+Eucalyptus stowardii,Eucalyptus_stowardii,5,m,Y,E_stowardii
+Eucalyptus striaticalyx,Eucalyptus_striaticalyx,12,m,,E_striaticalyx
+Eucalyptus stricklandii,Eucalyptus_stricklandii,9,m,N,E_stricklandii
+Eucalyptus stricta,Eucalyptus_stricta,7,m,Y,E_stricta
+Eucalyptus strzeleckii,Eucalyptus_strzeleckii,30,m,N,E_strzeleckii
+Eucalyptus sturgissiana,Eucalyptus_sturgissiana,5,m,Y,E_sturgissiana
+Eucalyptus subangusta subsp. pusilla,Eucalyptus_subangusta,7,m,S,E_subangusta
+Eucalyptus subcrenulata,Eucalyptus_subcrenulata,20,m,N,E_subcrenulata
+Eucalyptus suberea,Eucalyptus_suberea,3,m,S,E_suberea
+Eucalyptus subtilis,Eucalyptus_subtilis,3,m,Y,E_subtilis
+Eucalyptus suffulgens,Eucalyptus_suffulgens,25,m,N,E_suffulgens
+Eucalyptus suggrandis subsp. alipes,Eucalyptus_suggrandis,8,m,S,E_suggrandis
+Eucalyptus surgens,Eucalyptus_surgens,2,m,Y,E_surgens
+Eucalyptus synandra,Eucalyptus_synandra,4,m,Y,E_synandra
+Eucalyptus talyuberlup,Eucalyptus_talyuberlup,10,m,S,E_talyuberlup
+Eucalyptus taurina,Eucalyptus_taurina,22,m,N,E_taurina
+Eucalyptus tectifica,Eucalyptus_tectifica,15,m,N,E_tectifica
+Eucalyptus tenella,Eucalyptus_tenella,15,m,N,E_tenella
+Eucalyptus tenera,Eucalyptus_tenera,5,m,Y,E_tenera
+Eucalyptus tenuipes,Eucalyptus_tenuipes,5,m,N,E_tenuipes
+Eucalyptus tenuiramis,Eucalyptus_tenuiramis,25,m,N,E_tenuiramis
+Eucalyptus tenuis,Eucalyptus_tenuis,10,m,Y,E_tenuis
+Eucalyptus tephroclada,Eucalyptus_tephroclada,4,m,Y,E_tephroclada
+Eucalyptus tephrodes,Eucalyptus_tephrodes,12,m,S,E_tephrodes
+Eucalyptus terebra,Eucalyptus_terebra,12,m,N,E_terebra
+Eucalyptus tereticornis subsp. tereticornis,Eucalyptus_tereticornis,50,m,N,E_tereticornis
+Eucalyptus terrica,Eucalyptus_terrica,10,m,N,E_terrica
+Eucalyptus tetrapleura,Eucalyptus_tetrapleura,30,m,N,E_tetrapleura
+Eucalyptus tetraptera,Eucalyptus_tetraptera,4,m,Y,E_tetraptera
+Eucalyptus tetrodonta,Eucalyptus_tetrodonta,25,m,N,E_tetrodonta
+Eucalyptus thamnoides subsp. megista,Eucalyptus_thamnoides,4,m,Y,E_thamnoides
+Eucalyptus tholiformis,Eucalyptus_tholiformis,15,m,N,E_tholiformis
+Eucalyptus thozetiana,Eucalyptus_thozetiana,17,m,N,E_thozetiana
+Eucalyptus tindaliae,Eucalyptus_tindaliae,30,m,S,E_tindaliae
+Eucalyptus tintinnans,Eucalyptus_tintinnans,15,m,N,E_tintinnans
+Eucalyptus todtiana,Eucalyptus_todtiana,5,m,S,E_todtiana
+Eucalyptus torquata,Eucalyptus_torquata,12,m,N,E_torquata
+Eucalyptus tortilis,Eucalyptus_tortilis,8,m,N,E_tortilis
+Eucalyptus transcontinentalis,Eucalyptus_transcontinentalis,12,m,N,E_transcontinentalis
+Eucalyptus tricarpa,Eucalyptus_tricarpa,35,m,N,E_tricarpa
+Eucalyptus triflora,Eucalyptus_triflora,12,m,N,E_triflora
+Eucalyptus trivalvis,NA,5,m,S,NA
+Eucalyptus tumida,Eucalyptus_tumida,3,m,Y,E_tumida
+Eucalyptus ultima,Eucalyptus_ultima,4,m,Y,E_ultima
+Eucalyptus umbra,Eucalyptus_umbra,25,m,N,E_umbra
+Eucalyptus umbrawarrensis,Eucalyptus_umbrawarrensis,18,m,N,E_umbrawarrensis
+Eucalyptus uncinata,Eucalyptus_uncinata,7,m,S,E_uncinata
+Eucalyptus urna,Eucalyptus_urna,16,m,Y,E_urna
+Eucalyptus urnigera,Eucalyptus_urnigera,15,m,N,E_urnigera
+Eucalyptus utilis,Eucalyptus_utilis,7,m,S,E_utilis
+Eucalyptus valens,Eucalyptus_valens,10,m,N,E_valens
+Eucalyptus varia subsp. salsuginosa,Eucalyptus_varia,5.5,m,Y,E_varia
+Eucalyptus vegrandis,Eucalyptus_vegrandis,6,m,Y,E_vegrandis
+Eucalyptus vernicosa,Eucalyptus_vernicosa,4,m,Y,E_vernicosa
+Eucalyptus verrucata,Eucalyptus_verrucata,5,m,N,E_verrucata
+Eucalyptus vesiculosa,Eucalyptus_vesiculosa,3,m,N,E_vesiculosa
+Eucalyptus vicina,Eucalyptus_vicina,8,m,S,E_vicina
+Eucalyptus victoriana,Eucalyptus_victoriana,20,m,N,E_victoriana
+Eucalyptus victrix,Eucalyptus_victrix,15,m,,E_victrix
+Eucalyptus viminalis subsp. cygnetensis,Eucalyptus_viminalis,10,m,S,E_viminalis
+Eucalyptus virens,Eucalyptus_virens,25,m,N,E_virens
+Eucalyptus virginea,Eucalyptus_virginea,20,m,S,E_virginea
+Eucalyptus viridis,Eucalyptus_viridis,8,m,S,E_viridis
+Eucalyptus vokesensis,Eucalyptus_vokesensis,7,m,Y,E_vokesensis
+Eucalyptus volcanica,Eucalyptus_volcanica,25,m,N,E_volcanica
+Eucalyptus wandoo subsp. pulverea,Eucalyptus_wandoo,16.5,m,N,E_wandoo
+Eucalyptus websteriana,Eucalyptus_websteriana,5,m,Y,E_websteriana
+Eucalyptus whitei,Eucalyptus_whitei,15,m,N,E_whitei
+Eucalyptus wilcoxii,Eucalyptus_wilcoxii,10,m,S,E_wilcoxii
+Eucalyptus williamsiana,Eucalyptus_williamsiana,20,m,N,E_williamsiana
+Eucalyptus willisii subsp. falciformis,Eucalyptus_willisii,20,m,S,E_willisii
+Eucalyptus woodwardii,Eucalyptus_woodwardii,10,m,N,E_woodwardii
+Eucalyptus wyolensis,Eucalyptus_wyolensis,7,m,Y,E_wyolensis
+Eucalyptus xanthonema subsp. xanthonema,Eucalyptus_xanthonema,4,m,Y,E_xanthonema
+Eucalyptus xerothermica,Eucalyptus_xerothermica,12,m,S,E_xerothermica
+Eucalyptus yalatensis,Eucalyptus_yalatensis,4,m,Y,E_yalatensis
+Eucalyptus yarraensis,Eucalyptus_yarraensis,15,m,N,E_yarraensis
+Eucalyptus yilgarnensis,Eucalyptus_yilgarnensis,10,m,S,E_yilgarnensis
+Eucalyptus youmanii,Eucalyptus_youmanii,20,m,N,E_youmanii
+Eucalyptus youngiana,Eucalyptus_youngiana,10,m,S,E_youngiana
+Eucalyptus yumbarrana,Eucalyptus_yumbarrana,8,m,S,E_yumbarrana
+Eucalyptus zopherophloia,Eucalyptus_zopherophloia,4,m,Y,E_zopherophloia
