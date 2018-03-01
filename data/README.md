@@ -25,15 +25,15 @@
 
 #### 4. cp_tree.phy
 
-- A phylip tree file with the two-gene chloroplast phylogeny obtained from IQ-TREE
+- A phylip tree file with the two-gene chloroplast phylogeny obtained from IQ-TREE using the cp_alignment.nex file
 
 #### 5. four_gene_tree.tre
 
-- A tree file with the four-gene nuclear and chloroplast phylogeny obtained from IQ-TREE
+- A tree file with the four-gene nuclear and chloroplast phylogeny obtained from IQ-TREE using the concatenated nuc_alignment.nex and cp_alignment.nex files
 
 #### 6. genome_size.csv
 
-- This file contains the raw data from the genome size collection
+- This file contains the raw genome size measurement data 
 
 - Column 1:
 - Column 2:
@@ -65,4 +65,25 @@
 #### 9. nuc_alignment.nex
 
 - A nexus file with the two-gene nuclear alignment
+
+#### 10. nuc_tree.phy
+
+- A phylip tree file with the two-gene nuclear phylogeny obtained from IQ-TREE using the nuc_alignment.nex file
+
+#### 11. sla_eucalypt.csv
+
+- This file contains the raw SLA measurement data 
+
+- Column 1:
+- Column 2:
+- Column 3:
+- Column 4:
+
+#### 12. whole_cptree.tre
+
+- A tree file with the whole chloroplast phylogeny obtained from IQ-TREE using the wholecp_alignment.nex file
+
+#### 13. wholecp_alignment.nex
+
+- A nexus file with the whole chloroplast alignment
 
