@@ -1,4 +1,4 @@
-accepted_name,species_genome_size,Voucher specimen,Generalised location collected,Row,Tree (R.Gallagher sample tree in red),Year planted,1st budded,1st flowered,R.Gallagher samples,index,genome_size,CV sample,CV Solanum,fcm date,
+accepted_name,species_name,Voucher specimen,Generalised location collected,Row,Tree (R.Gallagher sample tree in red),Year planted,1st budded,1st flowered,R.Gallagher samples,index,genome_size,CV sample,CV Solanum,fcm date,
 Angophora melanoxylon,Angophora melanoxylon,DN 2552,"St George, QLD",173,"01,2,3,4",1999,,,Batch 4 collected 29.11.15,0.308,0.8,3.87,2.68,8/12/2015,
 Angophora hispida,Angophora hispida,DN 6746,"St Ives, NSW",295,"08,9,10",2015,,,Batch 7 collected 30.1.16,0.317863954,0.82,3.15,2.31,8/02/2016,
 Angophora costata subsp. euryphylla,Angophora costata subsp. euryphylla,DN 2082,"Broken Back Range, NSW",152,"01,2,3,4",1998,2004,2004,Batch 3 collected 22.11.15,0.318,0.82,4.15,2.57,27/11/2015,
@@ -321,7 +321,8 @@ Eucalyptus uncinata,Eucalyptus uncinata subsp. 'uncinata',DN 3453,"Quairading, W
 Eucalyptus camaldulensis subsp. acuta,Eucalyptus camaldulensis subsp. acuta,DN 2553,"Dirranbandi, QLD",174,"13,14,15,16",1999,2008,2011,Batch 4 collected 29.11.15,0.462,1.2,3.75,2.18,8/12/2015,
 Eucalyptus cinerea,Eucalyptus cinerea,DN 3211,"Marulan, NSW",237,"01,2,3,4",2001,2011,2011,Batch 1 collected 1.11.15,0.462,1.2,2.68,2.35,12/11/2015,
 Eucalyptus camaldulensis subsp. arida ,Eucalyptus camaldulensis subsp. arida ,DN 4177,"Boulia, QLD",203,"01,2,3,4",2002,2011,2013,Batch 2 collected 10.11.15,0.462,1.2,2.44,2.21,18/11/2015,
-NA,"Eucalyptus cephalocarpa",DN 1730,"Tynong, VIC",146,"01,2,3,4",1997,2003,2004,Batch 4 collected 29.11.15,0.462,1.2,2.94,2.72,9/12/2015,
+NA,"Eucalyptus cephalocarpa
+",DN 1730,"Tynong, VIC",146,"01,2,3,4",1997,2003,2004,Batch 4 collected 29.11.15,0.462,1.2,2.94,2.72,9/12/2015,
 Eucalyptus gamophylla,Eucalyptus gamophylla,DN 2678,"Warburton, WA",182,"15,16,17",2000,2011,2011,Batch 1 collected 1.11.15,0.462,1.2,3.72,2.06,12/11/2015,
 Eucalyptus latens,Eucalyptus latens,DN 1613,"Boyagin Rock, WA",138,"01,2,3",1997,2006,2007,Batch 3 collected 22.11.15,0.463,1.2,2.5,2.39,27/11/2015,
 Eucalyptus aromaphloia ,Eucalyptus aromaphloia ,DN 4313,"Lorne, VIC",264,"08,9,10,11",2004,2013,2013,Batch 2 collected 10.11.15,0.463,1.2,2.84,2.37,20/11/2015,
@@ -584,7 +585,8 @@ Eucalyptus thamnoides,Eucalyptus thamnoides,DN 3454,"Quairading, WA",234,"05,6,7
 Eucalyptus adesmophloia,Eucalyptus adesmophloia,DN 216,"Beaufort Inlet, WA",21,"05,6,7",1993,1997,1997,Batch 6 collected 10.1.16,0.485201359,1.26,3.14,2.25,21/01/2016,
 Eucalyptus albopurpurea,Eucalyptus albopurpurea,DN 3180,"Sleaford, SA",220,"13,14,15,16",2001,2004,2005,Batch 1 collected 1.11.15,0.485,1.26,2.95,2.45,10/11/2015,
 Eucalyptus latens,Eucalyptus latens,DN 3436,"Pingaring, WA",227,"25,26,27,28",2001,2005,2007,Batch 1 collected 1.11.15,0.485,1.26,3.79,3.18,9/11/2015,
-NA,"Eucalyptus rigens",DN 3595,"Mt Ney, WA",232,"25,26,27,28",2001,2005,2006,Batch 1 collected 1.11.15,0.485,1.26,2.94,2.64,11/11/2015,
+NA,"Eucalyptus rigens
+",DN 3595,"Mt Ney, WA",232,"25,26,27,28",2001,2005,2006,Batch 1 collected 1.11.15,0.485,1.26,2.94,2.64,11/11/2015,
 Eucalyptus taurina,Eucalyptus taurina,DN 2106,"Helidon Hills, QLD",151,"17,18,19,20",1998,,,Batch 3 collected 22.11.15,0.485,1.26,4.63,1.94,26/11/2015,
 Eucalyptus bosistoana,Eucalyptus bosistoana,DN 2902,"Nerrigundah, NSW",192,"05,6,7,8",2000,2008,2009,Batch 2 collected 10.11.15,0.485,1.26,3.27,2.96,23/11/2015,
 Eucalyptus diminuta,Eucalyptus diminuta,DN 3544,Mindaloo Beacon,235,"09,10,11,12",2001,2005,2006,Batch 1 collected 1.11.15,0.485,1.26,2.86,1.99,11/11/2015,
@@ -722,7 +724,8 @@ Eucalyptus goniantha subsp. goniantha,Eucalyptus goniantha subsp. goniantha,DN 3
 Eucalyptus leucophylla,Eucalyptus leucophylla,DN 1937,"Turkey Creek, WA",136,"27,28,29,30",1997,2013,2013,Batch 4 collected 29.11.15,0.496,1.29,2.77,2.6,11/12/2015,
 Eucalyptus lucasii,Eucalyptus lucasii,DN 545,"Wiluna, WA",39,"09,10,11,12",1994,1999,2000,Batch 5 collected 6.12.15,0.496,1.29,4.2,3.3,14/12/2015,
 Eucalyptus quaerenda,Eucalyptus quaerenda,DN 237,"Chinocup Lake, WA",20,"07,8,9,10",1993,1998,1998,Batch 6 collected 10.1.16,0.496277916,1.29,4.14,2.21,21/01/2016,
-NA,"Eucalyptus rameliana",DN 4294,"Lake Kerrylyn, WA",200,"01,2,3,4",2002,2011,2011,Batch 2 collected 10.11.15,0.496,1.29,2.6,2.36,18/11/2015,
+NA,"Eucalyptus rameliana
+",DN 4294,"Lake Kerrylyn, WA",200,"01,2,3,4",2002,2011,2011,Batch 2 collected 10.11.15,0.496,1.29,2.6,2.36,18/11/2015,
 Eucalyptus fracta,Eucalyptus fracta,DN 2081,"Broken Back Range, NSW",152,"09,10,11,12",1998,2008,2011,Batch 3 collected 22.11.15,0.497,1.29,4.83,2.79,30/11/2015,
 Eucalyptus gardneri subsp. gardneri,Eucalyptus gardneri subsp. gardneri,DN 3434,"Kulin, WA",227,"09,10,11,12",2001,2004,2006,Batch 1 collected 1.11.15,0.497,1.29,3.57,2.54,11/11/2015,
 Eucalyptus sparsa,Eucalyptus sparsa,DN 2684,"Blackstone Range, WA",182,"26,27,28,29",2000,,,Batch 1 collected 1.11.15,0.497,1.29,4.96,2.36,11/11/2015,
