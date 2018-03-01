@@ -74,11 +74,18 @@
 
 - This file contains the raw SLA measurement data 
 
-  - **Column 1:**
-  - **Column 2:**
-  - **Column 3:**
-  - **Column 4:**
-
+  - **Column 1:** Sample (Bag). The sample number
+  - **Column 2:** accepted_name. The name of the species given by the Australian Plant Census https://biodiversity.org.au/nsl/services/apc
+  - **Column 3:** species. The name of the species as given by Currency Creek Arboretum
+  - **Column 4-6:** dry mass (g). The dry mass of each leaf replicate (1,2,3) after being oven dried at 45 degrees for 72 hours.
+  - **Column 7-9:** Area mm2. The area of each leaf replicate (1,2,3) measured using ImageJ.
+  - **Column 10-12:** SLA cm2/g. The SLA value for each leaf replicate (1,2,3). Calculated by converting the leaf area to cm2, by dividing by 100 and then dividing this area by leaf mass for each replicate.
+  - **Column 13:** mean_SLA. The mean of the three SLA values for each sample.
+  - **Column 14:** CV SLA
+  - **Column 15:** Mean Mass. The average value for mass for the three replicates
+  - **Column 16:** Mean Area. The average value for area for the three replicates
+ 
+  
 #### 12. whole_cptree.tre
 
 - A tree file with the whole chloroplast phylogeny obtained from IQ-TREE using the wholecp_alignment.nex file
