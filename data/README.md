@@ -35,11 +35,22 @@
 
 - This file contains the raw genome size measurement data 
 
-  - **Column 1:**
-  - **Column 2:**
-  - **Column 3:**
-  - **Column 4:**
-
+  - **Column 1:** accepted_name. The name of each species given by the Australian Plant Census https://biodiversity.org.au/nsl/services/apc
+  - **Column 2:** species_name. The name of the species as given by Currency Creek Arboretum
+  - **Column 3:** Voucher specimen. The number assigned to the sample
+  - **Column 4:** Generalised location collected. The location where the seed from the mother tree was collected in the native range of that species.
+  - **Column 5:** Row. The row number of the tree at Currency Creek Arboretum
+  - **Column 6:** Tree. The tree number of the tree at Currency Creek Arboretum
+  - **Column 7:** Year planted. The year the tree was planted
+  - **Column 8:** 1st budded. The year the tree first produced buds
+  - **Column 9:** 1st flowered. The year the tree first produced flowers
+  - **Column 10:** date collected. The date the samples were collected
+  - **Column 11:** index. The genome size value recorded for the reference species Solanum pseudocapsicum used to calibrate the genome size measurements.
+  - **Column 12:** genome_size. The genome size measurement for each species
+  - **Column 13:** CV sample. Coefficient of variation values for the samples
+  - **Column 14:** CV Solanum. Coefficient of variation values for the reference species Solanum pseudocapsicum
+  - **Column 15:** fcm date. The data the flow cell cytometry was performed. 
+  
 #### 7. mallee.csv
 
 - This file provides information on which species are mallees based on the Euclid database
